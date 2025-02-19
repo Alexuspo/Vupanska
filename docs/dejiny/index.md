@@ -9,3 +9,4 @@ Chronologický přehled dějin výtvarného umění.
 - [Babylonská říše](babylon.md)
 - [Egypt](egypt.md)
 - [Římské antické umění](rim.md)
+- [Křesťanská Antika](krestanska-antika.md)

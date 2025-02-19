@@ -26,6 +26,14 @@
 
     [Přejít na umělce](umelci/index.md)
 
+-   **Poznávačky**
+
+    ---
+
+    Seznam děl k poznávání na zkoušku.
+
+    [Přejít na poznávačky](poznavacky/index.md)
+
 </div>
 
 ## O těchto zápiscích
