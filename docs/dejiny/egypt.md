@@ -1,0 +1,146 @@
+# Egypt
+
+<aside>
+🕷️ 10. - 14. hodina
+
+</aside>
+
+- **časové zařazení**
+    - předdynastické ob. → 5000-2700př.n.l.
+    - Stará říše → 2700-2200př.n.l.
+    - Střední říše → 2200-1500př.n.l.
+    - Nová říše → 1500-1000př.n.l.
+    
+- Wéset - hl.m. Střední a Nové říše - dnes Karnak a Luxor
+- Nepřekonaná civilizace
+- Nil - přetíná celé území Egypta → úroda
+- Meliorační systém - vyžadoval organizaci
+- otroci - váleční zajatci a občané nízkého postavení
+- svobodní občané - duševní a umělecká činnost
+- hieroglify - obrázkové písmo
+- kult mrtvých - uctívali zemřelé
+- víra v posmrtný život
+- Rosettské desky - psáno hieroglify i řecky
+- konzervace pozůstatků díky teplému a suchému podnebí
+
+- Stará říše - konec 4.tis. letí - spojení horního a dolního Egypta
+- Střední říše
+- Nová říše - podmanila si Palestinu
+- Kleopatra - poslední vládkyně Egypta
+
+- **architektura**
+    - stavby z kamene
+    - paláce a domy - sušené cihly → rozpadly se
+    - architrávový systém
+        - hlavice - vegetace (lotusy), bohyně nebes
+        - průřez sloupu - pravoúhlé, polygonální, kruhové
+    - Mastaba
+        - komolý jehlan
+        - až 32 místností
+        - sochy, reliéfy, nástěnné malby
+        - uctíval se kult boha podsvětí - Usír
+    - Džoserova stupňovitá pyramida u Sakaty
+        - několik mastab na sobě
+        - obdelníkový půdorys
+        - hrobky propojené šachtami
+    - stupňovitá pyramida u Medúmu
+        - čtvercový půdorys
+    - Lomená pyramida u Dahšúru
+        - polovina pod úhlem 54° poté 43°
+    - stěny pyramid standartně stavěny pod úhlem 51°
+    - hieroglify
+        - 1000 znaků
+        - J. F. Champolion - vyluštění hieroglifů
+    - stavba pyramid - Dolní egypt
+    - Gíza - předměstí Káhiry
+    - Cheopsova pyramida
+        - největší - 148m → dnes 137
+    - Rachefova
+        - falešné hrobky
+        - větrací šachty
+    - Tutanchámonova hrobka
+        - 2. největší
+        - Tutanchámon - nevýznamný panovník
+    - skalní chrám Abú Simbel
+    - chrámy
+        - pohřební účely
+        - stáží je sochy faraonů
+        - u Nilu
+    - skalní chrámy
+        - Nová říše
+        - Luxor, Karnak
+        - horní tok Nilu
+    - Karnak - alej sfing s beraními hlavami
+    - Véset - alej sfing lvi s lidskou hlavou
+    - Chrám královny Hatšepsovet - Dér el-Báhrí
+        - terasový
+        - zapuštěn ve skále
+        - hlavice sloupů s bohyní Hathóry
+
+- **sochařství**
+    - 2 linie
+        - monumentální - podle náboženských pravidel
+        - realistická - uvolněnější
+    - Naarmenova paleta - reliéfy, figury
+        - hlava a nohy - profil
+        - tělo a oko - z předu
+        - faraon největší - otroci nejmenší
+    - monumentální sochy
+        - bohů, faraonů
+        - z netvrdšího kamene - žula, diorit
+        - idealizované proporce
+    - džoser se symbolem boha Tiora - sokol za hlavou
+    - faraon Pjopje I. - výjimečně měděná
+    - kovové sochy → válečná kořist, ukradeny → roztaveny
+    - sfinga - jeden kus vápence, 20m vysoká
+    - faraon Amenhotep IV.
+        - 2 portréty Amenhotepa a jeho ženy Nefertiiti
+        - sochař Thutmós
+        - polychromované
+    - nedokončený portrét Nefertiiti z červené žuly
+        - částečně polychromovaný
+        - vysoká koruna
+        - Káhyra
+        - dnes Berlín
+    - kněz Rahotep s manželkou Nofretou
+    - reliéfy - nízké a polychromované - na stěnách chrámů a pyramid
+    - Mermnónovy kolosy - 20m vysoké z jediného kusu křemene
+    - maska Tutanchámona - vykládané oči - 1922 - Údolí králů
+    - sedící písař
+    - nůž z Džebel Achnaton
+    - starosta - šéch el-Beleda - vykládané oči
+
+- **malířství**
+    - pramen poznání života starověkého Egypta
+    - náměty
+        - boje s nepřátely
+        - zemědělství
+        - porážení býka
+        - hostiny
+        - mumifikace
+    - s přesností zobrazení zvířat a přírody
+    - malby - stěny hrobek, Údolí králů, mastaby, skalní hroby
+    - technika
+        - nilské bahno s rákosem → vápno → štuk → sádra
+        - barva - tempera s pojivem - arabská guma, vaječný bílek, enkaustika - technika za tepla se včelím voskem
+        - “štětec” - roztřepený rákos
+        - kontury
+        - jasné barvy
+        - pásová perspektiva
+        - hierarchická perspektiva
+        - doplněno o hieroglify
+        - malovali i na papirus a plátno
+        - barevná symbolika
+            - rezavá - neplodnost
+            - světle žlutá - ženská pleť
+            - hnědo červená - pleť mužů
+
+- **umělecké řemeslo**
+    - bohatá výbava hrobů - pro pohodlný život po smrti
+    - dokonalé užité umění - šperky, nábytek, doplňky, sklo, tkaniny
+    - velmi zdobné
+    - bronzovými nástroji řezali s milimetrovou přesností
+    - intarzie - vykládaný nábytek, zdobený zlatem, kameny a sklem
+    - skleněné perly, vícebarevné nádoby, figurky
+    - zlatníci - canaile - vtlačený prášek, granulování
+    - zpracování bronzu - zrcadla s držadlem ve tvaru sloupku nebo dívčí postavy

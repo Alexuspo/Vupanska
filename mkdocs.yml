@@ -7,6 +7,11 @@ nav:
   - Úvod: index.md
   - Dějiny umění: 
     - dejiny/index.md
+    - dejiny/praveke-umeni.md
+    - dejiny/mezopotamie.md
+    - dejiny/judaismus.md
+    - dejiny/babylon.md
+    - dejiny/egypt.md
   - Techniky:
     - techniky/index.md
   - Umělci:
