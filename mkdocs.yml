@@ -1,1 +1,5 @@
-site_name: VU Panska 
+site_name: VU Panska
+theme:
+  name: material
+  language: cs
+site_url: https://your-project-name.vercel.app
