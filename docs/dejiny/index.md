@@ -10,3 +10,5 @@ Chronologický přehled dějin výtvarného umění.
 - [Egypt](egypt.md)
 - [Římské antické umění](rim.md)
 - [Křesťanská Antika](krestanska-antika.md)
+- [Byzantské umění](byzanc.md)
+- [Románské umění](romanske-umeni.md)
