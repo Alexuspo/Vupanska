@@ -1,13 +1,20 @@
 {
     "version": 2,
-    "builds": [{
-        "src": "requirements.txt",
-        "use": "@vercel/python"
-    }],
-    "routes": [{
-        "src": "/(.*)",
-        "dest": "/"
-    }],
-    "buildCommand": "python -m mkdocs build",
-    "outputDirectory": "site"
+    "builds": [
+        {
+            "src": "requirements.txt",
+            "use": "@vercel/python"
+        },
+        {
+            "src": "mkdocs.yml",
+            "use": "@vercel/static-build",
+            "config": {
+                "distDir": "site"
+            }
+        }
+    ],
+    "routes": [
+        { "handle": "filesystem" },
+        { "src": "/(.*)", "dest": "/index.html" }
+    ]
 }
