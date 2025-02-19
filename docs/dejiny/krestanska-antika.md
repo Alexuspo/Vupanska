@@ -1,6 +1,5 @@
 # Křesťanská antika
 
-highlight
 
 <aside>
 🕷️ 29. hodina

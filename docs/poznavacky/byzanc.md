@@ -1,11 +1,7 @@
 # Byzantské umění - poznávačka
 
-## Mozaiky
+![1](../assets/images/byzanc/image.png){ align=center }
 
-### Císař Justinián a jeho družina
-![Císař Justinián](../assets/images/byzanc/justinian.jpg)
-- **Datace:** 547 n.l.
+![2](../assets/images/byzanc/image1.png){ align=center }
 
-### Císařovna Theodora a její dvorní dámy
-![Císařovna Theodora](../assets/images/byzanc/theodora.jpg){ align=center }
-- **Datace:** 547 n.l.
+![3](../assets/images/byzanc/image2.png){ align=center }
