@@ -1,5 +1,5 @@
 # Užitečné materiály
 
-## Vide na youtube
+## Videa na youtube
 - [Favismus + Expresionismus](https://www.youtube.com/watch?v=QqdsoHJJZ-w)
 
