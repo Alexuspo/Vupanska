@@ -1,5 +1,4 @@
 mkdocs==1.4.3
-mkdocs-material==9.1.15
 mkdocs-material
 mkdocs-glightbox==0.3.4
 pymdown-extensions==9.11

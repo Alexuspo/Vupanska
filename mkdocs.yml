@@ -1,29 +1,15 @@
-site_name: Skautská dokumentace
+site_name: Zápisky z výtvarného umění
 theme:
   name: material
   language: cs
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.expand
-    - search.highlight
-
-markdown_extensions:
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.superfences
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.tasklist:
-      custom_checkbox: true
 
 nav:
-  - Domů: index.md
-  - Schůzky: 
-    - schuze/index.md
-  - Výpravy:
-    - vypravy/index.md
-  - Tábor:
-    - tabor/index.
+  - Úvod: index.md
+  - Dějiny umění: 
+    - dejiny/index.md
+  - Techniky:
+    - techniky/index.md
+  - Umělci:
+    - umelci/index.md
 
 site_url: https://vupanska.vercel.app

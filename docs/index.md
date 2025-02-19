@@ -1,6 +1,10 @@
-# Vítejte v dokumentaci
+# Zápisky z výtvarného umění
 
-Toto je hlavní stránka dokumentace.
+Vítejte v mých zápiscích z výtvarného umění. Najdete zde:
+
+- Poznámky z dějin umění
+- Různé výtvarné techniky
+- Informace o významných umělcích
 
 ## Začínáme
 
