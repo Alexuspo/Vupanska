@@ -1,35 +1,21 @@
-site_name: VU Panska
+site_name: Skautská dokumentace
 theme:
   name: material
   language: cs
   features:
     - navigation.tabs
     - navigation.sections
-    - navigation.top
-    - search.suggest
+    - navigation.expand
     - search.highlight
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-7
-        name: Přepnout na tmavý režim
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: Přepnout na světlý režim
 
 markdown_extensions:
-  - admonition
-  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
   - pymdownx.superfences
-  - attr_list
-  - md_in_html
-  - tables
-  - footnotes
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 nav:
   - Domů: index.md
