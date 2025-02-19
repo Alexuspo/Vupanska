@@ -1,0 +1,22 @@
+:root {
+  --md-primary-fg-color: #5d4037;
+  --md-primary-fg-color--light: #8d6e63;
+  --md-primary-fg-color--dark: #3e2723;
+}
+
+.md-typeset h1 {
+  font-weight: 700;
+  color: var(--md-primary-fg-color);
+}
+
+.md-typeset aside {
+  padding: 1rem;
+  margin: 1rem 0;
+  border-left: .25rem solid var(--md-primary-fg-color);
+  border-radius: .25rem;
+  background-color: var(--md-code-bg-color);
+}
+
+.md-grid {
+  max-width: 1440px;
+}

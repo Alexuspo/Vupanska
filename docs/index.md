@@ -1,10 +1,36 @@
 # Zápisky z výtvarného umění
 
-Vítejte v mých zápiscích z výtvarného umění. Najdete zde:
+<div class="grid cards" markdown>
 
-- Poznámky z dějin umění
-- Různé výtvarné techniky
-- Informace o významných umělcích
+-   **Dějiny umění**
+
+    ---
+
+    Chronologický přehled vývoje výtvarného umění od pravěku po současnost.
+
+    [Přejít na dějiny umění](dejiny/index.md)
+
+-   **Techniky**
+
+    ---
+
+    Různé výtvarné techniky a postupy.
+
+    [Přejít na techniky](techniky/index.md)
+
+-   **Umělci**
+
+    ---
+
+    Významní umělci a jejich díla.
+
+    [Přejít na umělce](umelci/index.md)
+
+</div>
+
+## O těchto zápiscích
+
+Tyto zápisky vznikají během studia výtvarného umění. Obsahují poznámky z přednášek, doplněné o další studijní materiály.
 
 ## Začínáme
 
