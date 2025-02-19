@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# VU Panska
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Vítejte na stránkách skautského oddílu VU Panska!
 
-## Commands
+## Rychlé odkazy
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- [Schůzky](schuze/index.md)
+- [Výpravy](vypravy/index.md)
+- [Tábor](tabor/index.md)
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+!!! tip "Jak přidat zápis"
+    1. Vytvoř nový markdown soubor ve správné složce
+    2. Přidej ho do navigace v `mkdocs.yml`
+    3. Používej nadpisy, seznamy a další markdown formátování

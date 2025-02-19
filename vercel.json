@@ -1,9 +1,6 @@
 {
-    "buildCommand": "mkdocs build",
+    "buildCommand": "python3.9 -m pip install -r requirements.txt && python3.9 -m mkdocs build",
     "outputDirectory": "site",
     "installCommand": "pip install -r requirements.txt",
-    "framework": "python",
-    "runtime": {
-        "pythonVersion": "3.9"
-    }
+    "framework": "python"
 }
