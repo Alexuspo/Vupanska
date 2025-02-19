@@ -34,6 +34,14 @@
 
     [Přejít na poznávačky](poznavacky/index.md)
 
+-   **Užitečné materiály**
+
+    ---
+
+    Odkazy na užitečné zdroje pro studium dějin umění.
+
+    [Přejít na materiály](materialy/index.md)
+
 </div>
 
 ## O těchto zápiscích

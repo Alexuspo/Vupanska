@@ -6,8 +6,4 @@ Seznam děl k poznávání na zkoušku.
 - [Byzantské umění](byzanc.md)
 
 ## Struktura poznávaček
-- Název díla
-- Autor (pokud je znám)
-- Datace
-- Umělecký sloh/období
-- Typické znaky
+- Všechny poznávačky (které znám.)
