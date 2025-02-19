@@ -13,3 +13,5 @@ nav:
     - umelci/index.md
 
 site_url: https://vupanska.vercel.app
+site_dir: site
+docs_dir: docs
