@@ -1,17 +1,6 @@
 {
     "buildCommand": "mkdocs build",
     "outputDirectory": "site",
-    "installCommand": "python -m pip install --upgrade pip && pip install -r requirements.txt",
-    "builds": [
-        {
-            "src": "mkdocs.yml",
-            "use": "@vercel/static-build"
-        }
-    ],
-    "routes": [
-        {
-            "src": "/(.*)",
-            "dest": "/$1"
-        }
-    ]
+    "installCommand": "pip install -r requirements.txt",
+    "framework": null
 }
