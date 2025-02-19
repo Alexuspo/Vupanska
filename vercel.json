@@ -2,19 +2,11 @@
     "version": 2,
     "builds": [
         {
-            "src": "requirements.txt",
-            "use": "@vercel/python"
-        },
-        {
-            "src": "mkdocs.yml",
+            "src": "build.sh",
             "use": "@vercel/static-build",
             "config": {
                 "distDir": "site"
             }
         }
-    ],
-    "routes": [
-        { "handle": "filesystem" },
-        { "src": "/(.*)", "dest": "/index.html" }
     ]
 }
