@@ -4,9 +4,34 @@
   --md-primary-fg-color--dark: #3e2723;
 }
 
+/* Základní styly */
+.md-typeset {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Nadpisy */
 .md-typeset h1 {
   font-weight: 700;
-  color: var(--md-primary-fg-color);
+  color: #2e2e2e;
+  border-bottom: 3px solid var(--md-primary-fg-color);
+  padding-bottom: .5rem;
+  margin-bottom: 2rem;
+}
+
+.md-typeset h2 {
+  color: #424242;
+  margin-top: 2.5rem;
+  border-left: 4px solid var(--md-accent-fg-color);
+  padding-left: 0.8rem;
+}
+
+.md-typeset h3 {
+    color: #616161;
+    font-weight: 600;
+    margin-top: 2rem;
+    border-bottom: 1px solid #1976d2;
+    padding-bottom: 0.3rem;
 }
 
 .md-typeset aside {
@@ -17,6 +42,182 @@
   background-color: var(--md-code-bg-color);
 }
 
+.important-note {
+  background-color: #ffebee;
+  border-left: 4px solid #f44336;
+  padding: 1rem;
+  margin: 1rem 0;
+  color: #b71c1c;  /* tmavší červená pro text */
+}
+
+.definition {
+  background-color: #e3f2fd;
+  border-left: 4px solid #2196f3;
+  padding: 1rem;
+  margin: 1rem 0;
+  color: #0d47a1;  /* tmavší modrá pro text */
+}
+
+.timeline {
+  border-left: 4px solid #9c27b0;
+  padding-left: 1rem;
+  margin: 1rem 0;
+  background-color: #f3e5f5;
+  color: #4a148c;  /* tmavší fialová pro text */
+  font-weight: 500;
+}
+
+.image-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.image-gallery img {
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.person-card {
+  background-color: #e8f5e9;
+  border-radius: 4px;
+  padding: 1rem;
+  margin: 1rem 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  border-left: 4px solid #4caf50;
+  color: #1b5e20;  /* tmavší zelená pro text */
+}
+
+.artwork {
+  background-color: #fff8e1;
+  border-left: 4px solid #ffc107;
+  padding: 1rem;
+  margin: 1rem 0;
+  color: #f57f17;  /* tmavší žlutá pro text */
+}
+
+/* Odrážky */
+.md-typeset ul {
+    margin-left: 1.2rem;
+}
+
+.md-typeset li {
+    margin-bottom: 0.3rem;
+}
+
+/* Obrázky */
+.md-typeset img {
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin: 1rem 0;
+}
+
+/* Zvýraznění textu */
+.md-typeset strong {
+    color: #d32f2f;
+    font-weight: 700;
+    background-color: #ffebee;
+    padding: 0 4px;
+    border-radius: 2px;
+}
+
+/* Karty s informacemi */
+.person-card strong {
+    color: #1b5e20;
+    background-color: #c8e6c9;
+    padding: 0 4px;
+    border-radius: 2px;
+}
+
+.artwork strong {
+    color: #f57f17;
+    background-color: #fff3e0;
+    padding: 0 4px;
+    border-radius: 2px;
+}
+
+.definition strong {
+    color: #0d47a1;
+    background-color: #e3f2fd;
+    padding: 0 4px;
+    border-radius: 2px;
+}
+
+/* Důležité poznámky */
+.important-note strong {
+    color: #b71c1c;
+    background-color: #ffcdd2;
+    padding: 0 4px;
+    border-radius: 2px;
+}
+
+/* Timeline */
+.timeline strong {
+    color: #4a148c;
+    background-color: #e1bee7;
+    padding: 0 4px;
+    border-radius: 2px;
+}
+
+/* Odkazy */
+.md-typeset a {
+    color: #1565c0;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+}
+
+.md-typeset a:hover {
+    border-bottom-color: currentColor;
+}
+
 .md-grid {
   max-width: 1440px;
+}
+
+/* Vylepšené zvýraznění textu */
+.definition strong,
+.definition li {
+  color: #0d47a1;  /* tmavší modrá */
+  background: none;
+  font-weight: 600;
+}
+
+.important-note strong,
+.important-note li {
+  color: #b71c1c;  /* tmavší červená */
+  background: none;
+  font-weight: 600;
+}
+
+.timeline strong,
+.timeline li {
+  color: #4a148c;  /* tmavší fialová */
+  background: none;
+  font-weight: 600;
+}
+
+.person-card strong,
+.person-card li {
+  color: #1b5e20;  /* tmavší zelená */
+  background: none;
+  font-weight: 600;
+}
+
+.artwork strong,
+.artwork li {
+  color: #b71c1c;  /* tmavší červená pro lepší čitelnost než žlutá */
+  background: none;
+  font-weight: 600;
+}
+
+/* Základní text v boxech */
+.definition,
+.important-note,
+.timeline,
+.person-card,
+.artwork {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #2e2e2e;  /* tmavě šedá pro běžný text */
 }

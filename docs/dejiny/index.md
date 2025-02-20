@@ -13,3 +13,4 @@ Chronologický přehled dějin výtvarného umění.
 - [Byzantské umění](byzanc.md)
 - [Románské umění](romanske-umeni.md)
 - [Gotika](gotika.md)
+- [Renesance](renesance.md)
