@@ -11,28 +11,28 @@
 <h2>Dějiny umění</h2>
 <p>Chronologický přehled uměleckých období</p>
 
-[Přejít na dějiny →](dejiny/index)
+<a class="nav-link" href="dejiny/index.html">Přejít na dějiny →</a>
 </div>
 
 <div class="nav-item">
 <h2>Poznávačky</h2>
 <p>Přehled důležitých děl</p>
 
-[Přejít na poznávačky →](poznavacky/index)
+<a class="nav-link" href="poznavacky/index.html">Přejít na poznávačky →</a>
 </div>
 
 <div class="nav-item">
 <h2>Studijní materiály</h2>
 <p>Užitečné zdroje a odkazy</p>
 
-[Přejít na materiály →](materialy/index)
+<a class="nav-link" href="materialy/index.html">Přejít na materiály →</a>
 </div>
 
 <div class="nav-item">
 <h2>Umělci</h2>
 <p>Významné osobnosti</p>
 
-[Přejít na umělce →](umelci/index)
+<a class="nav-link" href="umelci/index.html">Přejít na umělce →</a>
 </div>
 </div>
 
@@ -67,4 +67,3 @@ Pro lokální spuštění dokumentace použijte:
 pip install -r requirements.txt
 mkdocs serve
 ```
-````

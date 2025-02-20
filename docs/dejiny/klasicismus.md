@@ -27,19 +27,19 @@
 
 - **kostel sv. Máří Magdalény (Sain - Madeleine - Paříž)**
 
-![Untitled](../assets/images/klasicismus/Untitled.png)
+![Untitled](/assets/images/klasicismus/Untitled.png)
 
 ### Jacques Germain Sufflot
 
 - **Panteon = chrám sv. Genovefy v Paříži** - mauzoleum osobností - Emil Zola, Marie Curie-Sklodowská
 
-![Untitled1](../assets/images/klasicismus/Untitled1.png)
+![Untitled1](/assets/images/klasicismus/Untitled1.png)
 
 ### Jean Francois-Thérése Chalgrin
 
 - **Vítězný oblouk - Etoile - náměstí Étoile**
 
-![Untitled2](../assets/images/klasicismus/Untitled2.png)
+![Untitled2](/assets/images/klasicismus/Untitled2.png)
 
 ### Charles Percier
 
@@ -49,7 +49,7 @@
 
 - **Vítězný sloup - Vendomský sloup se sochou Napoleona v Paříži** - na základě vítězné bitvy u Slavkova
 
-![Untitled3](../assets/images/klasicismus/Untitled3.png)
+![Untitled3](/assets/images/klasicismus/Untitled3.png)
 
 - Paříž - staví se první široké a rovné **bulváry - Rue di Rivoli**
 - architektura - v Dánsku, Německu, Anglii, Itálii, Rusku, USA
@@ -63,15 +63,15 @@
 
 - **Národní galerie - Londýn**
 
-![Untitled4](../assets/images/klasicismus/Untitled4.png)
+![Untitled4](/assets/images/klasicismus/Untitled4.png)
 
 ### John Russell Pope
 
 - **Britské muzeum - Londýn** - po vzoru řeckého chrámu bohyně Athény
 
-![Untitled5](../assets/images/klasicismus/Untitled5.png)
+![Untitled5](/assets/images/klasicismus/Untitled5.png)
 
-![Untitled6](../assets/images/klasicismus/Untitled6.png)
+![Untitled6](/assets/images/klasicismus/Untitled6.png)
 
 - největší zastřešená plocha (prostor) - 1656 skleněných panelů
 
@@ -81,13 +81,13 @@
 
 - **Braniborská brána - Berlín** - (celní brána pro opevnění Berlína)
 
-![Untitled7](../assets/images/klasicismus/Untitled7.png)
+![Untitled7](/assets/images/klasicismus/Untitled7.png)
 
 ### Leo von Klenze
 
 - **Walhalla u Regensburgu**
 
-![Untitled8](../assets/images/klasicismus/Untitled8.png)
+![Untitled8](/assets/images/klasicismus/Untitled8.png)
 
 ### Karl Fridrich Schinkel
 
@@ -96,17 +96,17 @@
 - neoklasicismus, neogotika
 - **Neue Wache - Berlín**
 
-![Untitled9](../assets/images/klasicismus/Untitled9.png)
+![Untitled9](/assets/images/klasicismus/Untitled9.png)
 
 - **Konzerthaus Berlín**
 
-![Untitled10](../assets/images/klasicismus/Untitled10.png)
+![Untitled10](/assets/images/klasicismus/Untitled10.png)
 
 - **Elisabetkirche - Berlín**
 - **Pruská vojenská akademie - Berlín**
 - **Design - třídy Unter den Linden**
 
-![Untitled11](../assets/images/klasicismus/Untitled11.png)
+![Untitled11](/assets/images/klasicismus/Untitled11.png)
 
 - **Altes Museum - Berlín**
 
@@ -118,7 +118,7 @@
 
 - **Kazaňský chrám - Petrohrad**
 
-![Untitled12](../assets/images/klasicismus/Untitled12.png)
+![Untitled12](/assets/images/klasicismus/Untitled12.png)
 
 ## USA
 
@@ -128,7 +128,7 @@
 
 - **Washington** - založení města - **Washingtonský Kapitol** - symbol sebevědomé americké demokracie (Bílý dům jen sídlo prezidenta)
 
-![Untitled13](../assets/images/klasicismus/Untitled13.png)
+![Untitled13](/assets/images/klasicismus/Untitled13.png)
 
 ---
 
@@ -150,19 +150,19 @@
 - Veřejné parky -anglické parky - Nové Hrady, Vlašim, Lednice, Kostelec nad Orlicí, Kinského zahrada + **empírová vila = letohrádek Kinských - Jindřich Koch**
 - **empírový zámek Kačina na Kutnohorsku - Christian Friedrich Schuricht, zámek Kynžvart**
 
-![Untitled14](../assets/images/klasicismus/Untitled14.png)
+![Untitled14](/assets/images/klasicismus/Untitled14.png)
 
 - **kostel sv. Kříže - Na Příkopě, Praha - postavil J. Hausknecht**
 
-![Untitled15](../assets/images/klasicismus/Untitled15.png)
+![Untitled15](/assets/images/klasicismus/Untitled15.png)
 
 - **Stavovské (Nostické) divadlo - Praha - Antonín Haffenecker** - interiér z hnědého sliveneckého mramoru
 
-![Untitled16](../assets/images/klasicismus/Untitled16.png)
+![Untitled16](/assets/images/klasicismus/Untitled16.png)
 
 - **přestavba kláštera - dům U Hybernů**
 
-![Untitled17](../assets/images/klasicismus/Untitled17.png)
+![Untitled17](/assets/images/klasicismus/Untitled17.png)
  
 - **lázně Teplice, Františkovy Lázně, Mariánské Lázně**
 - **Přírodní parky v Lednici, Krásném Dvoře**
@@ -178,23 +178,23 @@
 - osobní sochař Napoleona, živé modely, sochy s psychologii
 - **Amor a Psyche**
 
-![Untitled18](../assets/images/klasicismus/Untitled18.png)
+![Untitled18](/assets/images/klasicismus/Untitled18.png)
 
 - **Tři Grácie**
 
-![Untitled19](../assets/images/klasicismus/Untitled19.png)
+![Untitled19](/assets/images/klasicismus/Untitled19.png)
 
 - **portrét Napoleona - jako bůh v aktu**
 
-![Untitled20](../assets/images/klasicismus/Untitled20.png)
+![Untitled20](/assets/images/klasicismus/Untitled20.png)
 
 - **portrét Paoliny Borghese jako Venuše**
 
-![Untitled21](../assets/images/klasicismus/Untitled21.png)
+![Untitled21](/assets/images/klasicismus/Untitled21.png)
 
 - **Perseus s Hlavou Medúzy**
 
-![Untitled22](../assets/images/klasicismus/Untitled22.png)
+![Untitled22](/assets/images/klasicismus/Untitled22.png)
 
 ## Čechy
 
@@ -205,7 +205,7 @@
 
 - **Wimmerova kašna - dvojce milenců**
 
-![Untitled23](../assets/images/klasicismus/Untitled23.png)
+![Untitled23](/assets/images/klasicismus/Untitled23.png)
 
 ### Josef Malínský
 
@@ -215,7 +215,7 @@
 
 - náhrobky v Praze , biskup Leopold Lev Thin-Koširský hřbitov Praha, **alegorie vltavy na fontáně na Mariánském náměstí v Praze**
 
-![Untitled24](../assets/images/klasicismus/Untitled24.png)
+![Untitled24](/assets/images/klasicismus/Untitled24.png)
 
 # Malířství
 
@@ -229,28 +229,28 @@
 - dvorní malíř Napoleona
 - **Přísaha Horatiů -** nejkrásnější obraz století
 
-![Untitled25](../assets/images/klasicismus/Untitled25.png)
+![Untitled25](/assets/images/klasicismus/Untitled25.png)
 
 - **Přísaha v míčovně**
 - **Zavražděný Marat**
 
-![Untitled26](../assets/images/klasicismus/Untitled26.png)
+![Untitled26](/assets/images/klasicismus/Untitled26.png)
 
 - **Únos Sabinek**
 
-![Untitled27](../assets/images/klasicismus/Untitled27.png)
+![Untitled27](/assets/images/klasicismus/Untitled27.png)
 
 - **Bonaparte překračuje Alpy**
 
-![Untitled28](../assets/images/klasicismus/Untitled28.png)
+![Untitled28](/assets/images/klasicismus/Untitled28.png)
 
 - **Napoleonova korunovace**
 
-![Untitled29](../assets/images/klasicismus/Untitled29.png)
+![Untitled29](/assets/images/klasicismus/Untitled29.png)
 
 - **Madame Récamier**
 
-![Untitled30](../assets/images/klasicismus/Untitled30.png)
+![Untitled30](/assets/images/klasicismus/Untitled30.png)
 
 ### Jean-Auguste-Dominique Ingres
 
@@ -259,17 +259,17 @@
 - snaha potlačit své sklony k romantismu
 - **Pan Riviére, Paní Riviérová, Slečna Riviérová**
 
-![Untitled31](../assets/images/klasicismus/Untitled31.png)
+![Untitled31](/assets/images/klasicismus/Untitled31.png)
 
 - **Velká odaliska**
 - **Koupající se**
 - **Pramen**
     
-    ![Screenshot2024-05-11at10.51.37](../assets/images/klasicismus/Screenshot2024-05-11at10.51.37.png)
+    ![Screenshot2024-05-11at10.51.37](/assets/images/klasicismus/Screenshot2024-05-11at10.51.37.png)
     
 - **Turecká lázeň**
 
-![Untitled32](../assets/images/klasicismus/Untitled32.png)
+![Untitled32](/assets/images/klasicismus/Untitled32.png)
 
 - obrazy blízké romantismu - **Roger osvobozuje Angeliku, Paolo a Francesca** - barvná uvolněnost, dynamika kompozice
 
@@ -280,16 +280,16 @@
 - věřil v nápravu společnosti prostřednictvím umění
 - **Autoportréty**
 
-![Untitled33](../assets/images/klasicismus/Untitled33.png)
+![Untitled33](/assets/images/klasicismus/Untitled33.png)
 
 - **Paridův soud**
 - **Perseus a Andromeda**
 
-![Untitled34](../assets/images/klasicismus/Untitled34.png)
+![Untitled34](/assets/images/klasicismus/Untitled34.png)
 
 - **Sen sv. Josefa**
 
-![Untitled35](../assets/images/klasicismus/Untitled35.png)
+![Untitled35](/assets/images/klasicismus/Untitled35.png)
 
 ## Čechy
 
@@ -300,7 +300,7 @@
 
 - **Čtyři denní doby**
 
-![Untitled36](../assets/images/klasicismus/Untitled36.png)
+![Untitled36](/assets/images/klasicismus/Untitled36.png)
 
 - **Lesní krajina** - tři plány
 
@@ -322,21 +322,21 @@
 - **Okoř**
 - **Pražský hrad**
 
-![Untitled37](../assets/images/klasicismus/Untitled37.png)
+![Untitled37](/assets/images/klasicismus/Untitled37.png)
 
 - **Bubeneč**
 - **Křivoklát**
 
-![Untitled38](../assets/images/klasicismus/Untitled38.png)
+![Untitled38](/assets/images/klasicismus/Untitled38.png)
 
 - svěží akvarely, uvolněný rukopis
 - Jeho děti také malíři - Josef, Amálie, Quido
 
 Josef Mánes - **josefína, orloj**
 
-![Untitled39](../assets/images/klasicismus/Untitled39.png)
+![Untitled39](/assets/images/klasicismus/Untitled39.png)
 
-![Untitled40](../assets/images/klasicismus/Untitled40.png)
+![Untitled40](/assets/images/klasicismus/Untitled40.png)
 
 ### Antonín Machek
 
@@ -346,10 +346,11 @@ Josef Mánes - **josefína, orloj**
 - Litografie - lithos = kámen - grafocká technika snímání z kamene - jemnozrnný vápenec + mastná barva
 - **Podobizna dámy s dopisem**
 
-![Untitled41](../assets/images/klasicismus/Untitled41.png)
+![Untitled41](/assets/images/klasicismus/Untitled41.png)
+
 - **Josef Jungmann**
 
-![Untitled42](../assets/images/klasicismus/Untitled42.png)
+![Untitled42](/assets/images/klasicismus/Untitled42.png)
 
 ### František Tkadlík
 
@@ -359,16 +360,16 @@ Josef Mánes - **josefína, orloj**
 - **Madona s přeslicí**
 - **Svatý Václav a Ludmila při mši** - vlastenectví
 
-![Untitled43](../assets/images/klasicismus/Untitled43.png)
+![Untitled43](/assets/images/klasicismus/Untitled43.png)
 
 - **portrét Josefa Dobrovského, Františka Palackého**
 
-![Untitled44](../assets/images/klasicismus/Untitled44.png)
- 
+![Untitled44](/assets/images/klasicismus/Untitled44.png)
+
 - **portréty rodiny Černínů**
 - **Potopa** - barokní dynamika
 
-![Untitled45](../assets/images/klasicismus/Untitled45.png)
+![Untitled45](/assets/images/klasicismus/Untitled45.png)
 
 # Empírový nábytek - užité umění
 

@@ -66,7 +66,7 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - Úvod: index.md
+  - Domů: index.md
   - Dějiny umění: 
     - dejiny/index.md
     - dejiny/praveke-umeni.md
@@ -93,10 +93,26 @@ nav:
     - umelci/index.md
 
 site_url: https://vupanska.vercel.app
+
+# Důležité nastavení pro správnou funkci navigace
+use_directory_urls: false
+strict: true
+
 site_dir: site
 docs_dir: docs
+
+# Důležité nastavení pro zpracování obrázků
+docs_dir: docs
+site_dir: site
 use_directory_urls: false
 
+# Přidat pouze základní pluginy
 plugins:
   - search
-  - glightbox
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      width: 100%
+      height: auto
+      draggable: true

@@ -401,18 +401,35 @@
 /* Hlavní navigační sekce */
 .nav-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 1.5rem;
+    grid-template-columns: 1fr;  /* Jeden sloupec */
+    gap: 1rem;
     margin: 2rem 0;
+    max-width: 600px;  /* Menší maximální šířka */
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .nav-item {
-    background: linear-gradient(135deg, var(--md-primary-fg-color) 0%, var(--md-primary-fg-color--light) 100%);
-    color: white;
-    padding: 2rem;
-    border-radius: 12px;
+    padding: 1.5rem;  /* Menší padding */
+    border-radius: 8px;
     transition: all 0.3s ease;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.nav-item:nth-child(1) {
+    background: linear-gradient(135deg, #ff8a80 0%, #ff5252 100%);
+}
+
+.nav-item:nth-child(2) {
+    background: linear-gradient(135deg, #80d8ff 0%, #40c4ff 100%);
+}
+
+.nav-item:nth-child(3) {
+    background: linear-gradient(135deg, #b9f6ca 0%, #69f0ae 100%);
+}
+
+.nav-item:nth-child(4) {
+    background: linear-gradient(135deg, #ffd180 0%, #ffab40 100%);
 }
 
 .nav-item:hover {
@@ -424,21 +441,21 @@
     color: white !important;
     margin: 0 0 1rem 0 !important;
     border: none !important;
-    font-size: 1.5rem;
+    font-size: 1.3rem;  /* Menší font-size */
     font-weight: 600;
 }
 
 .nav-item p {
     color: rgba(255, 255, 255, 0.9);
-    margin: 0 0 1.5rem 0;
-    font-size: 1.1rem;
+    margin: 0 0 1rem 0;
+    font-size: 1rem;  /* Menší font-size */
     line-height: 1.4;
 }
 
 .nav-item a {
     color: white !important;
     display: inline-block;
-    padding: 0.8rem 1.5rem;
+    padding: 0.6rem 1rem;  /* Menší padding */
     background: rgba(255, 255, 255, 0.1);
     border-radius: 6px;
     text-decoration: none !important;
@@ -448,6 +465,24 @@
 
 .nav-item a:hover {
     background: rgba(255, 255, 255, 0.2);
+}
+
+/* Upravený styl pro odkazy v navigaci */
+.nav-item .nav-link {
+    color: white !important;
+    display: inline-block;
+    padding: 0.8rem 1.5rem;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 6px;
+    text-decoration: none !important;
+    font-weight: 500;
+    transition: background 0.2s ease;
+    margin-top: 1rem;
+}
+
+.nav-item .nav-link:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
 }
 
 /* Oblíbená témata */
