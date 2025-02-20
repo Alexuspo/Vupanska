@@ -1,52 +1,65 @@
 # Zápisky z výtvarného umění
 
-<div class="grid cards" markdown>
-
--   **Dějiny umění**
-
-    ---
-
-    Chronologický přehled vývoje výtvarného umění od pravěku po současnost.
-
-    [Přejít na dějiny umění](dejiny/index.md)
-
--   **Techniky**
-
-    ---
-
-    Různé výtvarné techniky a postupy.
-
-    [Přejít na techniky](techniky/index.md)
-
--   **Umělci**
-
-    ---
-
-    Významní umělci a jejich díla.
-
-    [Přejít na umělce](umelci/index.md)
-
--   **Poznávačky**
-
-    ---
-
-    Seznam děl k poznávání na zkoušku.
-
-    [Přejít na poznávačky](poznavacky/index.md)
-
--   **Užitečné materiály**
-
-    ---
-
-    Odkazy na užitečné zdroje pro studium dějin umění.
-
-    [Přejít na materiály](materialy/index.md)
-
+<div class="main-header">
+    <p>Digitální zápisky z dějin výtvarného umění</p>
 </div>
 
-## O těchto zápiscích
+## Hlavní sekce
 
-Tyto zápisky vznikají během studia výtvarného umění. Obsahují poznámky z přednášek, doplněné o další studijní materiály.
+<div class="nav-grid">
+<div class="nav-item">
+### Dějiny umění
+Chronologický přehled uměleckých období
+
+[Přejít na dějiny →](dejiny/index)
+</div>
+
+<div class="nav-item">
+### Poznávačky
+Přehled důležitých děl
+
+[Přejít na poznávačky →](poznavacky/index)
+</div>
+
+<div class="nav-item">
+### Studijní materiály
+Užitečné zdroje a odkazy
+
+[Přejít na materiály →](materialy/index)
+</div>
+
+<div class="nav-item">
+### Umělci
+Významné osobnosti
+
+[Přejít na umělce →](umelci/index)
+</div>
+</div>
+
+## Oblíbená témata
+
+<div class="topics">
+<div class="topic-section">
+
+### Umělecké směry
+<ul>
+    <li><a href="dejiny/renesance">Renesance</a></li>
+    <li><a href="dejiny/gotika">Gotika</a></li>
+    <li><a href="dejiny/romanske-umeni">Románské umění</a></li>
+    <li><a href="dejiny/byzanc">Byzantské umění</a></li>
+</ul>
+</div>
+
+<div class="topic-section">
+
+### Významní umělci
+<ul>
+    <li><a href="dejiny/claude-monet">Claude Monet</a></li>
+    <li><a href="umelci/michelangelo">Michelangelo</a></li>
+    <li><a href="umelci/leonardo">Leonardo da Vinci</a></li>
+</ul>
+</div>
+</div>
 
 ## Začínáme
 

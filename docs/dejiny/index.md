@@ -15,3 +15,5 @@ Chronologický přehled dějin výtvarného umění.
 - [Gotika](gotika.md)
 - [Renesance](renesance.md)
 - [Claude Monet](claude-monet.md)
+- [Baroko](baroko.md)
+- [Rokoko](rokoko.md)
