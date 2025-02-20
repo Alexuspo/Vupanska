@@ -17,3 +17,4 @@ Chronologický přehled dějin výtvarného umění.
 - [Claude Monet](claude-monet.md)
 - [Baroko](baroko.md)
 - [Rokoko](rokoko.md)
+- [Klasicismus](klasicismus.md)
