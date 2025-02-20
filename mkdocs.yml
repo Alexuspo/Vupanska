@@ -36,6 +36,7 @@ theme:
     code: Roboto Mono
   icon:
     logo: material/book-open-page-variant
+  custom_dir: overrides  # Relativní cesta ke složce overrides
 
 markdown_extensions:
   - pymdownx.highlight:

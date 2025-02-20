@@ -404,9 +404,8 @@
     grid-template-columns: 1fr;  /* Jeden sloupec */
     gap: 1rem;
     margin: 2rem 0;
-    max-width: 600px;  /* Menší maximální šířka */
-    margin-left: auto;
-    margin-right: auto;
+    width: 100%;  /* Plná šířka */
+    max-width: none;  /* Zrušení maximální šířky */
 }
 
 .nav-item {
@@ -414,6 +413,7 @@
     border-radius: 8px;
     transition: all 0.3s ease;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    width: 100%;  /* Plná šířka */
 }
 
 .nav-item:nth-child(1) {
