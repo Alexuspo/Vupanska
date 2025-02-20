@@ -8,33 +8,29 @@
 
 <div class="nav-grid">
 <div class="nav-item">
-
-## Dějiny umění
-Chronologický přehled uměleckých období
+<h2>Dějiny umění</h2>
+<p>Chronologický přehled uměleckých období</p>
 
 [Přejít na dějiny →](dejiny/index)
 </div>
 
 <div class="nav-item">
-
-## Poznávačky
-Přehled důležitých děl
+<h2>Poznávačky</h2>
+<p>Přehled důležitých děl</p>
 
 [Přejít na poznávačky →](poznavacky/index)
 </div>
 
 <div class="nav-item">
-
-## Studijní materiály
-Užitečné zdroje a odkazy
+<h2>Studijní materiály</h2>
+<p>Užitečné zdroje a odkazy</p>
 
 [Přejít na materiály →](materialy/index)
 </div>
 
 <div class="nav-item">
-
-## Umělci
-Významné osobnosti
+<h2>Umělci</h2>
+<p>Významné osobnosti</p>
 
 [Přejít na umělce →](umelci/index)
 </div>
@@ -44,8 +40,7 @@ Významné osobnosti
 
 <div class="topics">
 <div class="topic-section">
-
-### Umělecké směry
+<h3>Umělecké směry</h3>
 <ul>
     <li><a href="dejiny/renesance">Renesance</a></li>
     <li><a href="dejiny/gotika">Gotika</a></li>
@@ -55,8 +50,7 @@ Významné osobnosti
 </div>
 
 <div class="topic-section">
-
-### Významní umělci
+<h3>Významní umělci</h3>
 <ul>
     <li><a href="dejiny/claude-monet">Claude Monet</a></li>
     <li><a href="umelci/michelangelo">Michelangelo</a></li>
