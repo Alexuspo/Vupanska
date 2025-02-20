@@ -30,6 +30,7 @@ theme:
     - navigation.expand
     - toc.integrate
     - header.autohide
+    - content.image.lazy  # Přidat podporu pro lazy loading obrázků
   font:
     text: Roboto
     code: Roboto Mono
@@ -40,8 +41,8 @@ markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.superfences
-  - attr_list
-  - md_in_html
+  - attr_list  # Povolit atributy pro obrázky
+  - md_in_html # Povolit markdown v HTML
   - tables
   - footnotes
   - def_list
