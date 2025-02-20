@@ -1,41 +1,40 @@
 # Renesance
 
-<div class="timeline">
 Novověk - 15. - 16. století
 
-## Důležité letopočty
+
 - **1420** - první renesanční stavba
 - **1492** - příchod renesance do Čech
 - **1620** - konec renesance v Čechách (bitva na Bílé hoře)
-</div>
+
 
 ## Obecná charakteristika
 
-<div class="definition">
+
 - Návrat k antickým vzorům
 - Důraz na člověka (humanismus)
 - Rozvoj vědy a poznání
 - Objevné cesty
-</div>
+
 
 ### Významné osobnosti
 
-<div class="person-card">
+
 **Michelangelo Buonarroti**
 - Žil: 1475-1564
 - Díla: David, Pieta, Sixtinská kaple
 - Význam: Univerzální umělec - sochař, malíř, architekt, básník
-</div>
+
 
 ### Významná díla
 
-<div class="artwork">
+
 **Zrození Venuše** (Sandro Botticelli)
 - Datace: 1485
 - Technika: Tempera na plátně
 - Umístění: Galerie Uffizi, Florencie
 - Význam: Jedno z nejvýznamnějších děl rané renesance
-</div>
+
 
 ## Renesance - svět
 
