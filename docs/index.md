@@ -8,28 +8,32 @@
 
 <div class="nav-grid">
 <div class="nav-item">
-### Dějiny umění
+
+## Dějiny umění
 Chronologický přehled uměleckých období
 
 [Přejít na dějiny →](dejiny/index)
 </div>
 
 <div class="nav-item">
-### Poznávačky
+
+## Poznávačky
 Přehled důležitých děl
 
 [Přejít na poznávačky →](poznavacky/index)
 </div>
 
 <div class="nav-item">
-### Studijní materiály
+
+## Studijní materiály
 Užitečné zdroje a odkazy
 
 [Přejít na materiály →](materialy/index)
 </div>
 
 <div class="nav-item">
-### Umělci
+
+## Umělci
 Významné osobnosti
 
 [Přejít na umělce →](umelci/index)
@@ -69,3 +73,4 @@ Pro lokální spuštění dokumentace použijte:
 pip install -r requirements.txt
 mkdocs serve
 ```
+````

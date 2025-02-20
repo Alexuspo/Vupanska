@@ -27,19 +27,19 @@
 
 - **kostel sv. Máří Magdalény (Sain - Madeleine - Paříž)**
 
-![Untitled](/assets/images/klasicismus/Untitled.png)
+![Untitled](../assets/images/klasicismus/Untitled.png)
 
 ### Jacques Germain Sufflot
 
 - **Panteon = chrám sv. Genovefy v Paříži** - mauzoleum osobností - Emil Zola, Marie Curie-Sklodowská
 
-![Untitled1](/assets/images/klasicismus/Untitled1.png)
+![Untitled1](../assets/images/klasicismus/Untitled1.png)
 
 ### Jean Francois-Thérése Chalgrin
 
 - **Vítězný oblouk - Etoile - náměstí Étoile**
 
-![Untitled2](/assets/images/klasicismus/Untitled2.png)
+![Untitled2](../assets/images/klasicismus/Untitled2.png)
 
 ### Charles Percier
 
@@ -49,7 +49,7 @@
 
 - **Vítězný sloup - Vendomský sloup se sochou Napoleona v Paříži** - na základě vítězné bitvy u Slavkova
 
-![Untitled3](/assets/images/klasicismus/Untitled3.png)
+![Untitled3](../assets/images/klasicismus/Untitled3.png)
 
 - Paříž - staví se první široké a rovné **bulváry - Rue di Rivoli**
 - architektura - v Dánsku, Německu, Anglii, Itálii, Rusku, USA
@@ -63,15 +63,15 @@
 
 - **Národní galerie - Londýn**
 
-![Untitled4](/assets/images/klasicismus/Untitled4.png)
+![Untitled4](../assets/images/klasicismus/Untitled4.png)
 
 ### John Russell Pope
 
 - **Britské muzeum - Londýn** - po vzoru řeckého chrámu bohyně Athény
 
-![Untitled5](/assets/images/klasicismus/Untitled5.png)
+![Untitled5](../assets/images/klasicismus/Untitled5.png)
 
-![Untitled6](/assets/images/klasicismus/Untitled6.png)
+![Untitled6](../assets/images/klasicismus/Untitled6.png)
 
 - největší zastřešená plocha (prostor) - 1656 skleněných panelů
 
@@ -81,13 +81,13 @@
 
 - **Braniborská brána - Berlín** - (celní brána pro opevnění Berlína)
 
-![Untitled7](/assets/images/klasicismus/Untitled7.png)
+![Untitled7](../assets/images/klasicismus/Untitled7.png)
 
 ### Leo von Klenze
 
 - **Walhalla u Regensburgu**
 
-![Untitled8](/assets/images/klasicismus/Untitled8.png)
+![Untitled8](../assets/images/klasicismus/Untitled8.png)
 
 ### Karl Fridrich Schinkel
 
@@ -96,17 +96,17 @@
 - neoklasicismus, neogotika
 - **Neue Wache - Berlín**
 
-![Untitled9](/assets/images/klasicismus/Untitled9.png)
+![Untitled9](../assets/images/klasicismus/Untitled9.png)
 
 - **Konzerthaus Berlín**
 
-![Untitled10](/assets/images/klasicismus/Untitled10.png)
+![Untitled10](../assets/images/klasicismus/Untitled10.png)
 
 - **Elisabetkirche - Berlín**
 - **Pruská vojenská akademie - Berlín**
 - **Design - třídy Unter den Linden**
 
-![Untitled11](/assets/images/klasicismus/Untitled11.png)
+![Untitled11](../assets/images/klasicismus/Untitled11.png)
 
 - **Altes Museum - Berlín**
 
@@ -118,7 +118,7 @@
 
 - **Kazaňský chrám - Petrohrad**
 
-![Untitled12](/assets/images/klasicismus/Untitled12.png)
+![Untitled12](../assets/images/klasicismus/Untitled12.png)
 
 ## USA
 
@@ -128,7 +128,7 @@
 
 - **Washington** - založení města - **Washingtonský Kapitol** - symbol sebevědomé americké demokracie (Bílý dům jen sídlo prezidenta)
 
-![Untitled13](/assets/images/klasicismus/Untitled13.png)
+![Untitled13](../assets/images/klasicismus/Untitled13.png)
 
 ---
 
