@@ -201,6 +201,13 @@
     border-radius: 4px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     margin: 1rem 0;
+    max-width: 100%;
+    height: auto;
+    width: 600px;  /* Standardní šířka pro všechny obrázky */
+    object-fit: cover;  /* Zachová poměr stran */
+    display: block;  /* Vycentrování */
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Zvýraznění textu */
@@ -263,6 +270,10 @@
     
     .two-columns {
         grid-template-columns: 1fr;
+    }
+
+    .md-typeset img {
+        width: 100%;  /* Na mobilech plná šířka */
     }
 }
 
