@@ -9,3 +9,4 @@ Veškeré zaznamenané poznámky a materiály na stránce [vupanska.vercel.app](
 ✅ Rozdělení do kategorií  
 ⭕ Všechny poznámky do Abstrakce
 
+
