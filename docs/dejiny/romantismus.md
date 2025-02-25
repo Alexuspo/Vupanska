@@ -1,5 +1,3 @@
-# Romantismus
-
 konec 18. stol. ve výtvarném umění od 20. let 19. stol.
 
 - umělecké  a myšlenkové hnutí, národy hledají svoji identitu, historii, lidová kultura
@@ -26,33 +24,33 @@ konec 18. stol. ve výtvarném umění od 20. let 19. stol.
 - válcovité, hrotitě zastřešené věže, strmé střechy - vliv Francie
 - klasicismus a romantismus přináší nové materiály v architektuře - kovovou konstrukci = obrovský zastřešený prostor - **Křišťálový palác** pro první světovou výstavou v Londýně, mosty v lokti, **Brooklinský most NYC**
 
-![Křišťálový palác - Londýn](image.png)
+![Křišťálový palác - Londýn](./img/${documentBaseName}/romantismus_2025-02-25-21-22-48.png)
 
 Křišťálový palác - Londýn
 
-![Brooklinský most - NYC](image%201.png)
+![Brooklinský most - NYC](./img/${documentBaseName}/romantismus_2025-02-25-21-23-24.png)
 
 Brooklinský most - NYC
 
 - stavby:
 - **Westminsterský chrám a opatství - Londýn**
 
-![image.png](image%202.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-24-07.png)
 
 - **katedrála v Edinburgu**
     
-    ![image.png](image%203.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-24-22.png)
     
 - **londýnský parlament**
 - **parlament v Budapešti**
     
-    ![licensed-image.jpeg](licensed-image.jpeg)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-24-36.png)
     
 - **staroanglická venkovská sídla**
 - druhá polovina 19. stol. - historizující slohy
 - **Grand Central NYC**
     
-    ![image.png](image%204.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-25-01.png)
     
 
 ### Eugéne-Emmanuel Viollet-le-Duc -  Vollet-le-Duc - restaurace Notre Dame
@@ -63,18 +61,18 @@ Brooklinský most - NYC
 - park v Lednici - minaret, zřícenina Janova hradu
 - vznik městských parků - **Central park NYC, Bolognský park - Paříž**
     
-    ![central park - nyc](image%205.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-25-19.png)
     
     central park - nyc
     
 - nové architektonické materiály - železné konstrukce, zavěšené řetězové mosty - Loket - později lana
 - **Lednický park - zámek, minaret, Janův hrad**
     
-    ![Lednický park - Janův hrad](image%206.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-25-30.png)
     
     Lednický park - Janův hrad
     
-    ![Lednický park](image%207.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-25-58.png)
     
     Lednický park
     
@@ -83,7 +81,7 @@ Brooklinský most - NYC
 
 - nádražní haly - **Grand Central NY, St. Pancras v Londýně** - viktoriánská gotika
 
-![St. Pancras - Londýn](image%208.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-26-13.png)
 
 St. Pancras - Londýn
 
@@ -94,13 +92,13 @@ St. Pancras - Londýn
 - projektant **zdymadel Panamského průplavu**
 - **Eiffelova věž - Paříž** - 305m vysoká - ve své době nejvyšší stavbou světa
 
-![image.png](image%209.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-26-22.png)
 
 ### Frédéric Auguste Bartholdi
 
 - postavil **Sochu svobody 1886** - věnovaná Francií USA - stoleté výročí americké nezávislosti
 
-![image.png](image%2010.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-26-32.png)
 
 ### Francois Rude
 
@@ -112,50 +110,50 @@ St. Pancras - Londýn
 - neogotika
     - **zámek Hluboká - přestavba Františka Beer a Franz Damasus Deworetzky**
     
-    ![image.png](image%2011.png)
+   ![](./img/${documentBaseName}/romantismus_2025-02-25-21-26-47.png)
     
     - **Sychrov**
     
-    ![image.png](image%2012.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-26-55.png)
     
     - **Lednice**
     - **Orlík**
     - **Hrádek u Nechanic**
     - **bazilika sv. Petra a Pavla na Vyšehradě**
     
-    ![image.png](image%2013.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-27-04.png)
     
     - **sv. Ludmila na Vinohradech**
     
-    ![image.png](image%2014.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-27-12.png)
     
     - **úprava sv. Barbory v Kutné Hoře**
     - **Třeboň**
     
-    ![image.png](image%2015.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-27-20.png)
     
     - **sv. Prokop Žižkov**
     
-    ![image.png](image%2016.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-27-29.png)
     
 - neorománský sloh - **Bazilika sv. Cyrila a Metoděje - Karlín**
 
-![image.png](image%2017.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-27-42.png)
 
 - neorenesance - **kostel sv. Václava na Smíchově**
     
-    ![image.png](image%2018.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-27-51.png)
     
 - 1844 - J**ednota pro dostavbu chrámu sv. Víta** - necitlivé zásahy - **J. O. Kranner, J. Mocker**, naštěstí dokončil **Kamil Hilbert**
 - purismus zasáhl i **Karlštějn, chrám sv. Václava v Olomouci, kostel ve Vysokém mítě**
     
-    ![chrám sv. Václava - Olomouc](image%2019.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-27-58.png)
     
     chrám sv. Václava - Olomouc
     
 - dobře zrestaurovaný - **hrad Kokořín**
     
-    ![image.png](image%2020.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-28-07.png)
     
 - Ignác Ulmann - Vyšší dívčí škola Vodičkova ul.
 
@@ -171,19 +169,19 @@ St. Pancras - Londýn
 - dramatické reliéfy
 - **Marseillaisa na vítězném oblouku na nám. Etoille**
     
-    ![image.png](image%2021.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-28-15.png)
     
 - **socha Jany z Arku**
     
-    ![image.png](image%2022.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-28-22.png)
     
 - **pomník maršála Neye**
     
-    ![image.png](image%2023.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-28-29.png)
     
 - **Napoleon**
 
-![image.png](image%2024.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-28-37.png)
 
 ### Frédéric Auguste Bartholdi
 
@@ -196,11 +194,11 @@ St. Pancras - Londýn
 - řemeslně zručný, strohá modelace
 - **Pomník maršála Radeckého**
     
-    ![image.png](image%2025.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-29-08.png)
     
 - **Krannerova kašna - Císař František I. na Smetanově nábřeží**
     
-    ![image.png](image%2026.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-29-16.png)
     
 - **sochy pro Karlův most**
 
@@ -213,24 +211,24 @@ St. Pancras - Londýn
 
 - nedaleko Libechova do skal - **Čertovy hlavy - Želízy**
     
-    ![image.png](image%2027.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-29-25.png)
     
 
-![image.png](image%2028.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-29-32.png)
 
 - u Veithova zámku v lese - **fantaskní hlavy, Harfenice, reliéf Hada, Ještěra**
 - soubor skalních skulptur - **Blatník - nadživotní postavy Jana Žižky, Prokopa Holého, Zdenka Zásmuckého**
 - poslán na školu do Mnichova, zde se spřátelil s Josefem Mánsem
 - zde vytvořil hrdinu rukopisů - **Lumíra, sousoší Adama a Evy** - představa o kráse české ženy
 
-![Lumíra](image%2029.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-29-39.png)
 
 Lumíra
 
 - nepříznivé podmínky v Čechách → odchod do Říma
 - **Kristus, Marie a Marta**
 
-![Kristus u Marie a Marty](image%2030.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-29-46.png)
 
 Kristus u Marie a Marty
 
@@ -249,7 +247,7 @@ Kristus u Marie a Marty
 - barokně dramatický, koně, napoleonské scény, napětí
 - **Vor (Prám) Medúzy** - ztroskotání fregaty Méduse, po 12denní plavbě na voru se zachránilo bez jídla a pití jen 10 lidí, dramatická scéna
 
-![image.png](image%2031.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-29-55.png)
 
 ### Eugéne Delacroix
 
@@ -260,32 +258,32 @@ Kristus u Marie a Marty
 - scény plné vzrušení, dramatičnosti, fantazie
 - **Krveprolití na Chiu**
 
-![image.png](image%2032.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-30-02.png)
 
 - **Svoboda vedoucí lid na barikády**
 
-![image.png](image%2033.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-30-10.png)
 
 - **Jezdec napadený jaguárem** - NG
 
-![image.png](image%2034.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-30-23.png)
 
 - **Alžírské ženy ve svém pokoji**
 
-![image.png](image%2035.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-30-32.png)
 
 - **George Sandová**
 
-![image.png](image%2036.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-30-40.png)
 
 - **Fryderyk Chopin**
 
-![image.png](image%2037.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-30-46.png)
 
 - **Vyhnání Heliodora z chrámu** - z kostela Saint-Sulpice - Paříž
 - **Zápas Jakuba s andělem** - z kostela Saint-Sulpice - Paříž
 
-![image.png](image%2038.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-30-53.png)
 
 ## Barbizonská škola
 
@@ -304,15 +302,15 @@ Kristus u Marie a Marty
 - realistické, až naturalistické - každodenní život, práce
 - **Sběračky klasů**
 
-![image.png](image%2039.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-31-01.png)
 
 - **Anděl Páně - Polední modlitba**
 
-![image.png](image%2040.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-31-21.png)
 
 - **Rozsévač**
 
-![image.png](image%2041.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-31-28.png)
 
 - **Stohy sena**
 
@@ -323,18 +321,18 @@ Kristus u Marie a Marty
 - Mlžný stříbrný opar, v něm se tvary rozplívají
 - **Most v Mantes**
     
-    ![image.png](image%2042.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-31-39.png)
     
 - **Forum Romanum**
 - **Pohled na Florencii z Giardino di Boboli**
     
-    ![image.png](image%2043.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-31-47.png)
     
 - **Katedrála v Chartres**
 - **Vzpomínka na Coubron**
 - **Žena s perlou**
     
-    ![image.png](image%2044.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-31-54.png)
     
 
 ### John Constable
@@ -343,7 +341,7 @@ Kristus u Marie a Marty
 - skici i obrazy s jedním námětem - mraky s atmosférou
 - **Wivenhoe Park**
 
-![image.png](image%2045.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-32-02.png)
 
 ### William Turner
 
@@ -352,11 +350,11 @@ Kristus u Marie a Marty
 - subjektivní romantické pojetí
 - **Déšť, pára, rychlost** - až lyricky abstraktní, pohyb vlaku, opar -NG-londýn
     
-    ![image.png](image%2046.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-32-11.png)
     
 - **Bouře**
 
-![image.png](image%2047.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-32-19.png)
 
 ### Caspar David Friedrich
 
@@ -366,14 +364,14 @@ Kristus u Marie a Marty
 - maloval oblasti Pomořan, Harzu, ale i Krkonoše a České středohoří
 - **Kříž v horách**
 
-![image.png](image%2048.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-32-35.png)
 
 - **Dva muži pozorující měsíc**
 - **Křídové útesy na Rujaně**
 - **Milešovka**
 - **Poutník nad mořem mlhy**
     
-    ![image.png](image%2049.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-32-45.png)
     
 
 # Romantismus v Čechách a na Moravě
@@ -400,19 +398,19 @@ Kristus u Marie a Marty
 - rozervané scenérie, rozeklaná skaliska, zbytky středověkých staveb
 - **Krajina se zříceninou**
 
-![image.png](image%2050.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-32-53.png)
 
 - **Hrad Křivoklát**
 
-![image.png](image%2051.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-33-01.png)
 
 - **Bouře u Cibulky**
     
-    ![image.png](image%2052.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-33-09.png)
     
 - **Skála mezi Braníkem a Podolím**
     
-    ![image.png](image%2053.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-33-16.png)
     
 
 ### Josef Navrátil
@@ -428,43 +426,43 @@ Kristus u Marie a Marty
 - olejomalby krajin:
     - **Hon na lišku**
     
-    ![image.png](image%2054.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-33-24.png)
     
     - **Vodopád pod Dachsteinem**
     
-    ![image.png](image%2055.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-33-31.png)
     
     - **Osamělá kaplička**
     
-    ![image.png](image%2056.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-33-38.png)
     
     - **Plachetnice na jezeře pod ledovcem**
     
-    ![image.png](image%2057.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-33-45.png)
     
 - zátiší:
     - **Vařený humr**
     
-    ![image.png](image%2058.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-33-52.png)
     
     - **Slívy**
     
-    ![image.png](image%2059.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-34-08.png)
     
     - **Sledě**
     - **Hrušky na míse**
     - **Paštika**
     - **Rozkrojený meloun**
     
-    ![image.png](image%2060.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-34-16.png)
     
     - **Zátiší s pomeranči**
     
-    ![image.png](image%2061.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-34-25.png)
     
     - **Švestky se snítkou**
     
-    ![image.png](image%2062.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-34-32.png)
     
 - uvolněná až moderní malba - uvolněný rukopis
 - inspirace divadlem:
@@ -496,7 +494,7 @@ Kristus u Marie a Marty
     - **Liptovský Gazda**
 - ilustrace - **Rukopis královédvorský**
 
-![image.png](image%2063.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-34-42.png)
 
 - portréty:
     - **Paní Belská**
@@ -504,7 +502,7 @@ Kristus u Marie a Marty
     - **Paní Václavíková**
     - **Josefina**
     
-    ![image.png](image%2064.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-34-48.png)
     
 - obrazy ve studiu druhého rokoka:
     - **Políbení**
@@ -513,7 +511,7 @@ Kristus u Marie a Marty
 - žánrové obrazy:
     - **Švadlena**
     
-    ![image.png](image%2065.png)
+    ![](./img/${documentBaseName}/romantismus_2025-02-25-21-34-56.png)
     
     - **V létě**
     - **Jitro**
@@ -524,16 +522,16 @@ Kristus u Marie a Marty
 - **deska pražského orloje - 1866 - 12 měsíců**
 - **Milenci**
 
-![image.png](image%2066.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-35-04.png)
 
 - **Kající se Máří Magdaléna**
 - **Blíženci**
 
-![image.png](image%2067.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-35-10.png)
 
 - **prapor Sokola**
 
-![image.png](image%2068.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-35-17.png)
 
 ### Adolf Kosárek
 
@@ -544,7 +542,7 @@ Kristus u Marie a Marty
 - přibližují se k nizozemskému realismu
 - **Selská svatba**
 
-![image.png](image%2069.png)
+![image.png](attachment:b63ebd3c-c133-42dd-a17d-8d3eda9931ce:image.png)
 
 - **Česká krajina**
 - **Krajina ze středních Čech**
@@ -552,23 +550,23 @@ Kristus u Marie a Marty
 - **Noční vítr**
 - **Zimní noc**
 
-![image.png](image%2070.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-35-24.png)
 
 - **Horská krajina s vodopádem**
 
-![image.png](image%2071.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-35-30.png)
 
 - **Krajina v bouři**
 
-![image.png](image%2072.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-35-37.png)
 
 - **Hřbitov u moře**
 
-![image.png](image%2073.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-35-44.png)
 
 - **Před bouří**
 
-![image.png](image%2074.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-35-51.png)
 
 ### August Bedřich Piepenhagen
 
@@ -584,15 +582,15 @@ Kristus u Marie a Marty
 - **Vyhlídka**
 - **Měsíční noc s pocestnými**
 
-![image.png](image%2075.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-35-58.png)
 
 - **Zimní krajina se zříceninou a kapličkou**
 
-![image.png](image%2076.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-36-04.png)
 
 - **Krajina s mostem**
 
-![image.png](image%2077.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-36-10.png)
 
 - **Moře od Helgolandu**
 
@@ -604,19 +602,19 @@ Kristus u Marie a Marty
 - olej, akvarel - kombinace tempery a akvarele
 - **U Rájce na Moravě**
 
-![image.png](image%2078.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-36-17.png)
 
 - **Z okolí Svitavy na Moravě**
 
-![image.png](image%2079.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-36-23.png)
 
 - **Skaliska**
 
-![image.png](image%2080.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-36-30.png)
 
 - **Les v Cholticích**
 
-![image.png](image%2081.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-36-38.png)
 
 ### Julius Mařák
 
@@ -624,15 +622,15 @@ Kristus u Marie a Marty
 - snivost, romantičnost, magické lesní průhledy
 - na zakázku výzdoba ND - **Říp, Blaník, Vyšehrad**
 
-![Říp](image%2082.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-36-56.png)
 
 Říp
 
-![Vyšehrad ](image%2083.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-37-03.png)
 
 Vyšehrad 
 
-![Blaník](image%2084.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-37-10.png)
 
 Blaník
 
@@ -646,28 +644,28 @@ Blaník
 - dcera Josefina také malířka, pomáhala mu s obrazy
 - **Lesní zátiší**
 
-![image.png](image%2085.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-37-18.png)
 
 - **Skalní soutěska**
 
-![image.png](image%2086.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-37-25.png)
 
 - **Krajina s bažinou**
 
-![image.png](image%2087.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-37-34.png)
 
 - **Starý dub**
 
-![image.png](image%2088.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-37-40.png)
 
 - **Šumavský prales**
 
-![image.png](image%2089.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-37-48.png)
 
 - **Pramen**
 
-![image.png](image%2090.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-37-55.png)
 
 - **Návrat z pastvy**
 
-![image.png](image%2091.png)
+![](./img/${documentBaseName}/romantismus_2025-02-25-21-38-03.png)
