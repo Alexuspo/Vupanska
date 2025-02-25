@@ -1,24 +1,44 @@
-konec 18. stol. ve výtvarném umění od 20. let 19. stol.
+# Romantismus
 
-- umělecké  a myšlenkové hnutí, národy hledají svoji identitu, historii, lidová kultura
-- opozice klasicismu
-- do opozice staví cit, vášeň, subjektivitu, tvarová bohatost, bizardnost, uvolnění, osobnost
-- inspirace historismem, středověkými slohy, orientálním a lidovým uměním
-- rozpory mezi ideály a skutečností - věční rozervanci - K. H. Mácha, Jean Jacques Rousseau
-- hlavně - literatura, výtvarné umění - malířství, zahradní umění
-- kolébkou je Anglie
-- podstatnou je romantická estetičnost
-- rozervanost - rozpor jedince - mezi ideály a skutečností
-- romantická krajina = hluboké rokliny, zříceniny, měsíc v úplňku, útesy, rozběsněné moře, vodopády, skály, hluboké lesy
-- zdroj inspirace - historismus - napodobení středověkých slohů hlavně gotiky později tzv. novogotika = pseudogotika, novorenesance, neobaroko, druhé rokoko - do nástupu secese
-- určitá stagnace v umění, absence tvůrčí invence
-- Purismus = restaurování středověkých památek, ideální slohový prototyp, tím byla sestřena osobitost památek, nadělalo se více škody než užitku
-- Hudba - romantismus - Franz Schubert, Robert Schumann, Carl Maria von Weber, František Škroup
-- Hudba - novoromantismus - Rochard Wagner, Hector Berlioz, Bedřich Smetana, Antonín Dvořák, Pjotr Iljič Čajkovskij
-- eklektismus - míšení stylů naa jedné stavbě
+<div class="timeline">
+Konec 18. století - polovina 19. století
+Ve výtvarném umění hlavně od 20. let 19. století
+</div>
 
-# Architektura
+<div class="definition">
+Romantismus (z francouzského "roman" = rytířský román) vzniká jako opozice ke klasicismu. Oproti rozumu a řádu klade důraz na city, fantazii a individualitu jedince.
+</div>
 
+## Charakteristické znaky
+- Důraz na city a emoce
+- Odmítání racionalismu klasicismu
+- Inspirace středověkem a gotikou
+- Národní uvědomění a lidová kultura
+- Subjektivita a individualismus
+- Dramatičnost a expresivita
+- Únik do snů a fantazie
+- Zájem o exotiku a Orient
+- Obdiv k přírodě a její divokosti
+- Rozpor mezi ideály a skutečností
+
+## Historické souvislosti
+<div class="timeline">
+- Napoleonské války
+- Národní obrození v českých zemích
+- Průmyslová revoluce
+- Revoluce 1848
+</div>
+
+## Architektura
+
+### Charakteristické prvky
+- Novogotický sloh (Gothic Revival)
+- Inspirace středověkou architekturou
+- Asymetrie a malebnost
+- Historizující tendence
+- Nové stavební materiály (železo, sklo)
+
+### Významné stavby
 - tupé zakončení věží a nárožních věžiček, věže mnohaboké
 - zubaté cimbuří - vliv anglické gotiky
 - válcovité, hrotitě zastřešené věže, strmé střechy - vliv Francie
@@ -76,6 +96,7 @@ Brooklinský most - NYC
     
     Lednický park
     
+
 
 ### novorenesance
 
@@ -157,8 +178,15 @@ St. Pancras - Londýn
     
 - Ignác Ulmann - Vyšší dívčí škola Vodičkova ul.
 
-# Sochařství
+## Sochařství
 
+### Charakteristické rysy
+- Odklon od antických vzorů
+- Větší realismus a dramatičnost
+- Historická a současná témata
+- Monumentální realizace
+
+### Významní sochaři
 - vzorem už není antika
 - více realistické, dramatické - nemá ale samostatný styl
 - náměty - historie, součastnost
@@ -232,8 +260,35 @@ Lumíra
 
 Kristus u Marie a Marty
 
-# Malířství
+## Malířství
 
+### Charakteristické rysy
+- Důraz na barvu a světlo
+- Dramatické náměty
+- Historická a vlastenecká témata
+- Krajinářství a portrét
+- Volný malířský rukopis
+
+### Hlavní představitelé a směry
+
+<div class="person-card">
+<h3>Francouzský romantismus</h3>
+- Eugène Delacroix
+- Théodore Géricault
+</div>
+
+<div class="person-card">
+<h3>Anglický romantismus</h3>
+- William Turner
+- John Constable
+</div>
+
+<div class="person-card">
+<h3>Německý romantismus</h3>
+- Caspar David Friedrich
+</div>
+
+### České romantické malířství
 - nejdůležitější obsah a forma
 - rozporuplnost individua
 - až. krutá pravdivost
@@ -374,9 +429,9 @@ Kristus u Marie a Marty
     ![](./img/${documentBaseName}/romantismus_2025-02-25-21-32-45.png)
     
 
-# Romantismus v Čechách a na Moravě
+## Romantismus v Čechách a na Moravě
 
-# Architektura
+## Architektura
 
 - **Dostavba chrámu sv. Víta** - novogotické úpravy - **J. O. Kranner, Josef Mocker, Kamil Hilbert**
 - **dostavba Karlštejna**
@@ -391,7 +446,7 @@ Kristus u Marie a Marty
 - **tržnice nádražní haly**
 - **Generace ND** (1868-1881)- architekt **Josef Zítek**, Rudolfinum dokončil **Josef Schultz**, také autorem Národního muzea a Uměleckoprůmyslového muzea
 
-# Malířství
+## Malířství
 
 ### Antonín Mánes
 
@@ -669,3 +724,10 @@ Blaník
 - **Návrat z pastvy**
 
 ![](./img/${documentBaseName}/romantismus_2025-02-25-21-38-03.png)
+
+## Význam romantismu
+- Položil základy moderního umění
+- Osvobodil umělecký projev
+- Podpořil národní uvědomění
+- Objevil hodnotu subjektivity
+- Ovlivnil všechny následující umělecké směry
