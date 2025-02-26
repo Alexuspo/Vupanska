@@ -552,3 +552,239 @@
 .topic-section li {
     margin: 0.5rem 0;
 }
+
+/* Karty přehledu */
+.overview-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.overview-card {
+  background: var(--md-primary-fg-color--light);
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.overview-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+}
+
+.overview-card h2 {
+  margin-top: 0;
+  color: var(--md-primary-fg-color--dark);
+}
+
+.card-link {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color) !important;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+/* Časová osa */
+.timeline-container {
+  position: relative;
+  height: 150px;
+  margin: 2rem 0;
+  background: linear-gradient(to right, #e0e0e0 0%, #e0e0e0 100%);
+  background-size: 100% 4px;
+  background-repeat: no-repeat;
+  background-position: center;
+} overflow: visible;
+  padding: 2rem 0;
+.timeline-item {
+  position: absolute;
+  top: 50%;tem {
+  transform: translateY(-50%);
+} top: 50%;
+  transform: translateY(-50%);
+.timeline-date {nter;
+  font-weight: bold;
+  margin-bottom: 5px;
+} margin-left: -60px; /* polovina šířky pro vycentrování */
+}
+.timeline-content {
+  background: var(--md-primary-fg-color--light);
+  padding: 8px 12px;
+  border-radius: 4px;;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+} background: #fff;
+  padding: 3px 8px;
+/* Klíčové body */px;
+.key-points {line-block;
+  background: #f5f5f5;
+  border-left: 4px solid var(--md-primary-fg-color);
+  padding: 1rem;t {
+  margin: 1.5rem 0;-md-primary-fg-color--light);
+  border-radius: 0 4px 4px 0;
+  color: #333; /* Přidáno: tmavá barva textu pro lepší čitelnost */
+} border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+.key-points h3 {owrap;
+  margin-top: 0;
+  color: var(--md-primary-fg-color);
+}timeline-container::before,
+.timeline-container-extended::before {
+.key-points ul {
+  color: #333; /* Zajišťuje čitelnost textu v odrážkách */
+} top: 50%;
+  left: 0;
+.key-points li {
+  margin-bottom: 0.3rem;
+} background-color: #e0e0e0;
+  transform: translateY(-50%);
+/* Mapa */
+.map-container {
+  position: relative;
+  height: 400px;
+  background: url('../img/europe-outline.png') no-repeat center;
+  background-size: contain;r(--md-primary-fg-color);
+  margin: 2rem 0;
+} margin: 1.5rem 0;
+  border-radius: 0 4px 4px 0;
+.map-note {33; /* Přidáno: tmavá barva textu pro lepší čitelnost */
+  position: absolute;
+  background: white;
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  max-width: 200px;
+}
+.key-points ul {
+/* Důležité poznámky */ťuje čitelnost textu v odrážkách */
+.important-note {
+  background: #e8f4f8;
+  border: 1px solid #b8e0ed;
+  border-radius: 4px;em;
+  padding: 1rem;
+  margin: 1.5rem 0;
+}* Mapa */
+.map-container {
+.important-note h3 {;
+  color: #0277bd;
+  margin-top: 0;l('../img/europe-outline.png') no-repeat center;
+} background-size: contain;
+  margin: 2rem 0;
+/* Rozšířená časová osa */
+.timeline-container-extended {
+  position: relative;
+  height: 180px;lute;
+  margin: 3rem 0;te;
+  background: linear-gradient(to right, #e0e0e0 0%, #e0e0e0 100%);
+  background-size: 100% 4px;
+  background-repeat: no-repeat;0,0,0.1);
+  background-position: center;
+}
+
+/* Muzejní karty */y */
+.museum-grid {e {
+  display: grid;8f4f8;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;ius: 4px;
+  margin: 2rem 0;
+} margin: 1.5rem 0;
+}
+.museum-card {
+  background: var(--md-primary-fg-color--light);
+  color: white;d;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease;
+}timeline-container-extended {
+  position: relative;
+.museum-card:hover {
+  transform: translateY(-5px);
+} background: linear-gradient(to right, #e0e0e0 0%, #e0e0e0 100%);
+  background-size: 100% 4px;
+.museum-card h3 {at: no-repeat;
+  margin-top: 0;ition: center;
+  overflow: visible;
+  padding: 2rem 0;
+}
+
+/* Muzejní karty */
+.museum-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.museum-card {
+  background: var(--md-primary-fg-color--light);
+  color: white;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease;
+}
+
+.museum-card:hover {
+  transform: translateY(-5px);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}  background-color: rgba(0,0,0,0.03);.md-typeset table:not([class]) tr:nth-child(odd) {}  color: white;  background-color: var(--md-primary-fg-color);.md-typeset table:not([class]) th {}  font-size: 0.9rem;.md-typeset table:not([class]) {/* Tabulka stylů */}  opacity: 0.9;  margin: 0;.museum-card p {}  border: none !important;  color: white !important;  margin-top: 0;.museum-card h3 {}/* Centra umění - nová náhrada za mapu */
+.art-centers {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.art-center {
+  background: #f5f5f5;
+  border-left: 4px solid var(--md-primary-fg-color);
+  padding: 1.5rem;
+  border-radius: 0 8px 8px 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.art-center h3 {
+  color: var(--md-primary-fg-color) !important;
+  margin-top: 0 !important;
+  border-bottom: 1px solid rgba(0,0,0,0.1) !important;
+  padding-bottom: 0.5rem;
+}
+
+.art-center p {
+  margin: 0.5rem 0;
+}
+
+.art-center strong {
+  color: var(--md-primary-fg-color);
+}
