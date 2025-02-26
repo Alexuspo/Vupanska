@@ -16,6 +16,11 @@
         <p>Romantismus, realismus, impresionismus a další</p>
         <a href="moderni-umeni.html" class="card-link">Zobrazit přehled</a>
     </div>
+    <div class="overview-card">
+        <h2>Abstraktní umění</h2>
+        <p>Historie, směry a významní představitelé</p>
+        <a href="abstraktni-umeni.html" class="card-link">Zobrazit přehled</a>
+    </div>
 </div>
 
 ## K čemu slouží shrnutí?

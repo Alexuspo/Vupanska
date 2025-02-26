@@ -136,3 +136,4 @@
 2. **Baroko**: dynamika prostoru, průnik elips, dramatické osvětlení
 3. **Rokoko**: intimnější prostory, asymetrie, světlé barvy, štukové ornamenty
 4. **Klasicismus**: návrat k antickému řádu, monumentální stavby
+s
