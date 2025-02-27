@@ -241,3 +241,17 @@ Abstrakce znamenala zásadní převrat v dějinách umění a její vliv přetrv
 5. Vliv na architekturu, design a vizuální kulturu 20. století
 
 Abstraktní umění vyžaduje zkušeného pozorovatele, není přístupné na první pohled, ale nabízí hluboký estetický a duchovní zážitek.
+
+## Studijní materiály
+
+<div class="study-resources">
+    <div class="resource-card">
+        <h3>Anki kartičky</h3>
+        <p>Pro efektivní učení a opakování klíčových pojmů abstraktního umění můžete využít připravené Anki kartičky.</p>
+        <a href="../Karticky/abstraktni_umeni.apkg" class="resource-link">
+            <span class="icon">📝</span>
+            Stáhnout Anki kartičky k abstraktnímu umění
+        </a>
+        <p class="resource-note">Soubor ve formátu .apkg lze importovat do aplikace <a href="https://apps.ankiweb.net/" target="_blank">Anki</a>, která je dostupná zdarma pro počítače i mobilní zařízení.</p>
+    </div>
+</div>

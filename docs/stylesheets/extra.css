@@ -731,8 +731,57 @@
 
 .museum-card:hover {
   transform: translateY(-5px);
+}
 
+/* Studijní materiály */
+.study-resources {
+  margin: 2rem 0;
+}
 
+.resource-card {
+  background: #fff8e1;
+  border-left: 4px solid #ffb300;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.resource-card h3 {
+  color: #f57f17 !important;
+  margin-top: 0 !important;
+  border-bottom: 1px solid rgba(245, 127, 23, 0.2) !important;
+  padding-bottom: 0.5rem;
+}
+
+.resource-link {
+  display: inline-block;
+  margin: 1rem 0;
+  padding: 0.8rem 1.5rem;
+  background: #ffb300;
+  color: #fff !important;
+  border-radius: 4px;
+  text-decoration: none !important;
+  font-weight: 500;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.resource-link:hover {
+  background: #ffa000;
+  transform: translateY(-2px);
+  text-decoration: none !important;
+}
+
+.resource-link .icon {
+  margin-right: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.resource-note {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #666;
+}
 
 
 
