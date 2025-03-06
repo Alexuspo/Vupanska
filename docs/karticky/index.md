@@ -23,7 +23,7 @@ Anki je program pro efektivní učení pomocí metody spaced repetition (opakov�
 
 | Téma | Popis | Počet kartiček | Odkaz |
 |------|-------|---------------|-------|
-| Abstraktní umění | Směry, autoři a díla abstraktního umění | 50 | [Stáhnout balíček](abstraktni_umeni.apkg) |
+| Abstraktní umění | Směry, autoři a díla abstraktního umění | 40 | [Stáhnout balíček](abstraktni_umeni.apkg) |
 | Barokní umění | Charakteristika baroka, významní umělci a díla | 45 | [Stáhnout balíček](barokni_umeni.apkg) |
 | Základní pojmy | Základní terminologie a techniky výtvarného umění | 30 | [Stáhnout balíček](zakladni_pojmy.apkg) |
 
