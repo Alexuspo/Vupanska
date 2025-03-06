@@ -86,6 +86,7 @@ nav:
     - dejiny/rokoko.md
     - dejiny/klasicismus.md
     - dejiny/romantismus.md
+    - dejiny/abstraktni-umeni.md
   - Shrnutí:
     - shrnuti/index.md
     - shrnuti/vyvoj-umeni.md
@@ -95,6 +96,8 @@ nav:
   - Poznávačky:
     - poznavacky/index.md
     - poznavacky/byzanc.md
+  - Kartičky:
+    - karticky/index.md
   - Užitečné materiály:
     - materialy/index.md
 

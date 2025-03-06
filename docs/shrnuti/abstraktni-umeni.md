@@ -248,7 +248,7 @@ Abstraktní umění vyžaduje zkušeného pozorovatele, není přístupné na pr
     <div class="resource-card">
         <h3>Anki kartičky</h3>
         <p>Pro efektivní učení a opakování klíčových pojmů abstraktního umění můžete využít připravené Anki kartičky.</p>
-        <a href="Karticky/abstraktni_umeni.apkg" class="resource-link">
+        <a href="../karticky/abstraktni_umeni.apkg" class="resource-link">
             <span class="icon">📝</span>
             Stáhnout Anki kartičky k abstraktnímu umění
         </a>

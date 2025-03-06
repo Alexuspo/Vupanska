@@ -18,6 +18,13 @@
 </div>
 
 <div class="nav-item">
+<h2>Kartičky</h2>
+<p>Anki kartičky pro efektivní učení</p>
+
+<a class="nav-link" href="karticky/index.html">Přejít na kartičky →</a>
+</div>
+
+<div class="nav-item">
 <h2>Studijní materiály</h2>
 <p>Užitečné zdroje a odkazy</p>
 
