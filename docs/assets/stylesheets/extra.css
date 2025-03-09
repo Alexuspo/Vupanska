@@ -1,0 +1,134 @@
+/* Custom styling for MkDocs site */
+
+/* Variables */
+:root {
+  --md-primary-fg-color: #3a506b;
+  --md-accent-fg-color: #5bc0be;
+  --md-bold-color: #d32f2f; /* New variable for bold text color */
+}
+
+/* Main content styling */
+body {
+  font-family: 'Roboto', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+}
+
+/* Page title */
+h1 {
+  color: var(--md-primary-fg-color);
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.md-typeset h2 {
+  color: var(--md-primary-fg-color);
+  margin-top: 1.5rem;
+  font-weight: 600;
+  border-bottom: 1px solid #eaeaea;
+  padding-bottom: 0.3rem;
+}
+
+/* Navigation grid */
+.nav-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.nav-item {
+  background-color: #fff;
+  border-radius: 0.25rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 1.25rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border-top: 3px solid var(--md-accent-fg-color);
+}
+
+.nav-item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.nav-item h2 {
+  color: var(--md-primary-fg-color);
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.3rem;
+  border-bottom: none;
+}
+
+.nav-item p {
+  margin-bottom: 1rem;
+  color: #666;
+}
+
+.nav-link {
+  display: inline-block;
+  background-color: var(--md-primary-fg-color);
+  color: white !important;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  background-color: var(--md-accent-fg-color);
+  text-decoration: none !important;
+}
+
+/* Topics section */
+.topics {
+  margin-top: 2rem;
+}
+
+.topic-section {
+  background-color: #fff;
+  border-radius: 0.25rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 1.25rem;
+}
+
+.topic-section h3 {
+  margin-top: 0;
+  color: var(--md-primary-fg-color);
+  font-weight: 600;
+  border-bottom: 1px solid #eaeaea;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.topic-section ul {
+  padding-left: 1.5rem;
+}
+
+.topic-section li {
+  margin-bottom: 0.5rem;
+}
+
+/* Mobile responsiveness */
+@media screen and (max-width: 768px) {
+  .nav-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Improve visibility of bold/strong text */
+strong, b {
+  font-weight: 700;
+  color: var(--md-bold-color);
+}
+
+.md-typeset strong {
+  font-weight: 700;
+  color: var(--md-bold-color);
+}
+
+/* Make sure bold links are properly colored but still indicate they are links */
+.md-typeset a strong,
+.md-typeset strong a {
+  color: var(--md-bold-color);
+  text-decoration: underline;
+}

@@ -5,15 +5,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: deep purple
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-7
         name: Přepnout na tmavý režim
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: deep purple
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-4
         name: Přepnout na světlý režim
@@ -64,11 +64,11 @@ extra:
   generator: false
 
 extra_css:
-  - stylesheets/extra.css
+  - assets/stylesheets/extra.css
 
 nav:
   - Domů: index.md
-  - Dějiny umění: 
+  - Dějiny:
     - dejiny/index.md
     - dejiny/praveke-umeni.md
     - dejiny/mezopotamie.md
