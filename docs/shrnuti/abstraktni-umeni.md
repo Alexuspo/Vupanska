@@ -1,7 +1,7 @@
 # Abstraktní umění
 
 <div class="timeline-container">
-    <div class="timeline-item" style="left: 15%">
+    <div class="timeline-item" style="left: 10%">
         <div class="timeline-date">1910</div>
         <div class="timeline-content">První abstraktní obraz</div>
     </div>
@@ -13,7 +13,7 @@
         <div class="timeline-date">1920-1940</div>
         <div class="timeline-content">Rozvoj abstraktních směrů</div>
     </div>
-    <div class="timeline-item" style="left: 80%">
+    <div class="timeline-item" style="left: 85%">
         <div class="timeline-date">1945-1960</div>
         <div class="timeline-content">Druhá vlna abstrakce</div>
     </div>

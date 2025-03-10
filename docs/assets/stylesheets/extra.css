@@ -5,6 +5,11 @@
   --md-primary-fg-color: #3a506b;
   --md-accent-fg-color: #5bc0be;
   --md-bold-color: #d32f2f; /* New variable for bold text color */
+  --card-text-color: #333333; /* Darker text for better readability */
+  --person-card-bg: #fcfcfc;
+  --definition-bg: rgba(91, 192, 190, 0.08);
+  --key-points-bg: rgba(58, 80, 107, 0.08);
+  --callout-text-color: #333333;
 }
 
 /* Main content styling */
@@ -131,4 +136,385 @@ strong, b {
 .md-typeset strong a {
   color: var(--md-bold-color);
   text-decoration: underline;
+}
+
+/* Art history page styling */
+.period-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin: 1rem 0;
+}
+
+.period-item {
+  background-color: #fff;
+  border-radius: 0.25rem;
+  padding: 1rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border-left: 3px solid var(--md-accent-fg-color);
+}
+
+/* Summary page cards and callouts */
+.person-card {
+  background-color: var(--person-card-bg);
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  border-left: 4px solid var(--md-primary-fg-color);
+  position: relative;
+  overflow: hidden;
+}
+
+.person-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 40px;
+  height: 40px;
+  background-color: var(--md-primary-fg-color);
+  opacity: 0.1;
+  clip-path: polygon(0 0, 100% 0, 100% 100%);
+}
+
+.person-card h3 {
+  color: var(--md-primary-fg-color);
+  margin-top: 0;
+  font-size: 1.3rem;
+  border-bottom: 1px solid #eaeaea;
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.75rem;
+  font-weight: 700;
+}
+
+.person-card p {
+  margin-bottom: 1rem;
+  color: var(--callout-text-color);
+}
+
+.person-card ul {
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.person-card li {
+  margin-bottom: 0.5rem;
+  color: var(--callout-text-color);
+}
+
+.person-card strong {
+  color: var(--md-bold-color);
+  font-weight: 700;
+}
+
+.person-card em {
+  font-style: italic;
+  color: #555;
+}
+
+.definition {
+  background-color: var(--definition-bg);
+  border-radius: 0.5rem;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-left: 4px solid var(--md-accent-fg-color);
+  position: relative;
+}
+
+.definition::before {
+  content: "❝";
+  position: absolute;
+  top: 0.5rem;
+  right: 1rem;
+  font-size: 2rem;
+  color: var(--md-accent-fg-color);
+  opacity: 0.2;
+}
+
+.definition h3 {
+  color: var(--md-primary-fg-color);
+  margin-top: 0;
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.definition p {
+  margin: 0;
+  color: var(--callout-text-color);
+}
+
+.key-points {
+  background-color: var(--key-points-bg);
+  border-radius: 0.5rem;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-left: 4px solid var(--md-primary-fg-color);
+  position: relative;
+}
+
+.key-points::before {
+  content: "!";
+  position: absolute;
+  top: 0.5rem;
+  right: 1rem;
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: var(--md-primary-fg-color);
+  opacity: 0.2;
+}
+
+.key-points h3 {
+  color: var(--md-primary-fg-color);
+  margin-top: 0;
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.key-points ul {
+  margin-bottom: 0;
+}
+
+.key-points li {
+  margin-bottom: 0.5rem;
+  color: var(--callout-text-color);
+}
+
+/* Improved Timeline Component */
+.timeline-container {
+  position: relative;
+  height: 200px;
+  background-color: rgba(58, 80, 107, 0.05);
+  margin: 3rem 0;
+  border-radius: 0.5rem;
+  overflow: visible;
+  padding: 1rem 0;
+}
+
+.timeline-container::after {
+  content: "";
+  position: absolute;
+  height: 4px;
+  background-color: var(--md-primary-fg-color);
+  width: 90%;
+  left: 5%;
+  top: 50%;
+  transform: translateY(-50%);
+  border-radius: 2px;
+}
+
+.timeline-item {
+  position: absolute;
+  width: 150px;
+  text-align: center;
+  transform: translateX(-50%);
+}
+
+/* Position timeline items alternating above and below the line */
+.timeline-item:nth-child(odd) {
+  top: 10px;
+}
+
+.timeline-item:nth-child(even) {
+  bottom: 10px;
+}
+
+/* Add connecting lines to timeline items */
+.timeline-item:nth-child(odd)::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  width: 2px;
+  height: 30px;
+  background-color: var(--md-primary-fg-color);
+  opacity: 0.5;
+}
+
+.timeline-item:nth-child(even)::after {
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  width: 2px;
+  height: 30px;
+  background-color: var(--md-primary-fg-color);
+  opacity: 0.5;
+}
+
+.timeline-date {
+  background-color: var(--md-primary-fg-color);
+  color: white;
+  padding: 0.3rem 0.7rem;
+  border-radius: 1rem;
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  font-size: 0.9rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.timeline-content {
+  background-color: white;
+  padding: 0.7rem;
+  border-radius: 0.25rem;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--card-text-color);
+}
+
+/* Mobile responsiveness for timeline */
+@media screen and (max-width: 768px) {
+  .timeline-container {
+    height: 300px;
+  }
+  
+  .timeline-item {
+    width: 120px;
+  }
+}
+
+.overview-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.overview-card {
+  background-color: #fff;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  text-align: center;
+}
+
+.overview-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+.overview-card h2 {
+  margin-top: 0;
+  color: var(--md-primary-fg-color);
+  font-size: 1.4rem;
+  border-bottom: none;
+}
+
+.overview-card p {
+  color: #666;
+  margin-bottom: 1.5rem;
+}
+
+.card-link {
+  background-color: var(--md-primary-fg-color);
+  color: white !important;
+  padding: 0.5rem 1.5rem;
+  border-radius: 2rem;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+
+.card-link:hover {
+  background-color: var(--md-accent-fg-color);
+  text-decoration: none !important;
+}
+
+.study-resources {
+  margin: 2rem 0;
+}
+
+.resource-card {
+  background-color: #fff;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-left: 4px solid var(--md-accent-fg-color);
+}
+
+.resource-card h3 {
+  margin-top: 0;
+  color: var(--md-primary-fg-color);
+  font-weight: 600;
+}
+
+.resource-card p {
+  color: var(--card-text-color);
+}
+
+.resource-link {
+  display: flex;
+  align-items: center;
+  background-color: var(--md-primary-fg-color);
+  color: white !important;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.25rem;
+  text-decoration: none;
+  margin: 1rem 0;
+  transition: background-color 0.2s ease;
+  font-weight: 500;
+}
+
+.resource-link:hover {
+  background-color: var(--md-accent-fg-color);
+  text-decoration: none !important;
+}
+
+.resource-link .icon {
+  font-size: 1.25rem;
+  margin-right: 0.75rem;
+}
+
+.resource-note {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.75rem;
+}
+
+/* Simple grid for art history index */
+.simple-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+/* Fix for dark mode */
+[data-md-color-scheme="slate"] {
+  --card-text-color: #e0e0e0;
+  --callout-text-color: #e0e0e0;
+  --person-card-bg: #2e303e;
+  --definition-bg: rgba(91, 192, 190, 0.15);
+  --key-points-bg: rgba(58, 80, 107, 0.15);
+}
+
+[data-md-color-scheme="slate"] .person-card,
+[data-md-color-scheme="slate"] .definition,
+[data-md-color-scheme="slate"] .key-points {
+  background-color: #1e1e2e;
+}
+
+[data-md-color-scheme="slate"] .timeline-content,
+[data-md-color-scheme="slate"] .overview-card,
+[data-md-color-scheme="slate"] .resource-card {
+  background-color: #2e303e;
+  color: var(--card-text-color);
+}
+
+[data-md-color-scheme="slate"] .person-card h3,
+[data-md-color-scheme="slate"] .definition h3,
+[data-md-color-scheme="slate"] .key-points h3 {
+  color: #5bc0be;
+}
+
+[data-md-color-scheme="slate"] .person-card em {
+  color: #bbb;
 }
