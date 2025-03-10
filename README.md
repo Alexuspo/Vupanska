@@ -14,6 +14,9 @@ Veškeré zaznamenané poznámky a materiály na stránce [vupanska.vercel.app](
 ## Tvůrci
 
 Alexandr Pomykacz 
+
 Jan Tomačka 
+
 Adina Fialková 
+
 Jonáš Potocký 
