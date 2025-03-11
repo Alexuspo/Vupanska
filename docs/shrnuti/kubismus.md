@@ -274,7 +274,7 @@ Kubismus ovlivnil prakticky všechny oblasti vizuálního umění a stal se jedn
     <div class="resource-card">
         <h3>Anki kartičky</h3>
         <p>Pro efektivní učení a opakování klíčových pojmů kubistického umění můžete využít připravené Anki kartičky.</p>
-        <a href="../karticky/kubismus.apkg" class="resource-link">
+        <a href="./Karticky/kubismus.apkg" class="resource-link">
             <span class="icon">📝</span>
             Stáhnout Anki kartičky ke kubismu
         </a>
