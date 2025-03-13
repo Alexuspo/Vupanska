@@ -15,8 +15,6 @@ Veškeré zaznamenané poznámky a materiály na stránce [vupanska.vercel.app](
 
 Alexandr Pomykacz 
 
-Jan Tomačka 
+Jan Tomačka  
 
-Adina Fialková 
-
-Jonáš Potocký 
+Jonáš Brotánek
