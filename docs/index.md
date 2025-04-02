@@ -1,3 +1,9 @@
+---
+title: Zápisky z výtvarného umění
+description: Kompletní zápisky a studijní materiály z výtvarného umění, dějiny umění, směry, umělci a poznávačky.
+keywords: výtvarné umění, dějiny umění, studijní materiály, poznávačky, kubismus, abstraktní umění
+---
+
 # Zápisky z výtvarného umění
 
 ## Hlavní sekce

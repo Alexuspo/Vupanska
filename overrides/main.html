@@ -1,5 +1,51 @@
 {% extends "base.html" %}
 
+{% block extrahead %}
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="{% if page.meta.description %}{{ page.meta.description }}{% else %}{{ config.site_description }}{% endif %}">
+  <meta name="author" content="{{ config.site_author }}">
+  <meta name="keywords" content="{% if page.meta.keywords %}{{ page.meta.keywords }}{% else %}výtvarné umění, dějiny umění, kubismus, abstraktní umění{% endif %}">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.canonical_url }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}">
+  <meta property="og:description" content="{% if page.meta.description %}{{ page.meta.description }}{% else %}{{ config.site_description }}{% endif %}">
+  <meta property="og:image" content="{{ config.site_url }}/assets/images/og-image.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="{{ page.canonical_url }}">
+  <meta property="twitter:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}">
+  <meta property="twitter:description" content="{% if page.meta.description %}{{ page.meta.description }}{% else %}{{ config.site_description }}{% endif %}">
+  <meta property="twitter:image" content="{{ config.site_url }}/assets/images/og-image.png">
+  
+  <!-- Structured Data for Google -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationalResource",
+    "name": "{% if page.title %}{{ page.title }}{% else %}{{ config.site_name }}{% endif %}",
+    "description": "{% if page.meta.description %}{{ page.meta.description }}{% else %}{{ config.site_description }}{% endif %}",
+    "url": "{{ page.canonical_url }}",
+    "provider": {
+      "@type": "Organization",
+      "name": "Studijní materiály z výtvarného umění",
+      "url": "{{ config.site_url }}"
+    },
+    "about": {
+      "@type": "Thing",
+      "name": "Výtvarné umění"
+    },
+    "audience": {
+      "@type": "EducationalAudience",
+      "educationalRole": "student"
+    },
+    "inLanguage": "cs"
+  }
+  </script>
+{% endblock %}
+
 {% block content %}
   {{ super() }}
   

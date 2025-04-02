@@ -1,4 +1,8 @@
 site_name: Zápisky z výtvarného umění
+site_description: Kompletní zápisky z výtvarného umění - dějiny, směry, umělci, poznávačky a studijní materiály
+site_author: Alexandr Pomykacz
+site_url: https://vupanska.vercel.app
+
 theme:
   name: material
   language: cs
@@ -61,6 +65,23 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/alexuspo/vupanska
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+  # Enhanced metadata
+  meta:
+    - name: keywords
+      content: výtvarné umění, dějiny umění, kubismus, abstraktní umění, poznávačky, umělecké směry
+  # Open Graph
+  open_graph:
+    type: website
+    site_name: Zápisky z výtvarného umění
+    image: assets/images/og-image.png  # You should create this image
+  # Twitter
+  twitter:
+    creator: "@vupanska"
+    card: summary_large_image
+
   generator: false
 
 extra_css:
