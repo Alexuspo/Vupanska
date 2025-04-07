@@ -17,14 +17,19 @@
         <a href="moderni-umeni.html" class="card-link">Zobrazit přehled</a>
     </div>
     <div class="overview-card">
-        <h2>Abstraktní umění</h2>
-        <p>Historie, směry a významní představitelé</p>
-        <a href="abstraktni-umeni.html" class="card-link">Zobrazit přehled</a>
-    </div>
-    <div class="overview-card">
         <h2>Kubismus</h2>
         <p>Vznik, vývoj a představitelé kubistického umění</p>
         <a href="kubismus.html" class="card-link">Zobrazit přehled</a>
+    </div>
+    <div class="overview-card">
+        <h2>Český kubismus</h2>
+        <p>Unikátní český přínos světovému umění</p>
+        <a href="cesky-kubismus.html" class="card-link">Zobrazit přehled</a>
+    </div>
+    <div class="overview-card">
+        <h2>Abstraktní umění</h2>
+        <p>Historie, směry a významní představitelé</p>
+        <a href="abstraktni-umeni.html" class="card-link">Zobrazit přehled</a>
     </div>
 </div>
 
