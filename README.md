@@ -18,3 +18,5 @@ Alexandr Pomykacz
 Jan Tomačka  
 
 Jonáš Brotánek
+
+Čerpáno z poznámek spolužáků.
