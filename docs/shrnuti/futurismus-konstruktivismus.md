@@ -1,3 +1,10 @@
+---
+title: Futurismus a konstruktivismus - avantgardní směry 20. století
+description: Podrobný přehled futurismu a konstruktivismu, jejich vývoje, hlavních představitelů a klíčových děl. Obsahuje informace o italském futurismu a ruském konstruktivismu.
+keywords: futurismus, konstruktivismus, Marinetti, Boccioni, Balla, Tatlin, avantgarda, Sant'Elia, Rodčenko, český konstruktivismus
+canonical: https://vupanska.vercel.app/shrnuti/futurismus-konstruktivismus.html
+---
+
 # Futurismus a konstruktivismus
 
 <div class="timeline-container">

@@ -1,3 +1,10 @@
+---
+title: Kubismus - umělecký směr 20. století
+description: Podrobný přehled kubistického umění, jeho fází, představitelů a klíčových děl včetně Picassa, Braqua a dalších významných umělců.
+keywords: kubismus, Pablo Picasso, Georges Braque, Avignonské slečny, analytický kubismus, syntetický kubismus, papier collé, Juan Gris
+canonical: https://vupanska.vercel.app/shrnuti/kubismus.html
+---
+
 # Kubismus
 
 <div class="timeline-container">

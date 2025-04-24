@@ -1,3 +1,10 @@
+---
+title: Český kubismus - unikátní fenomén světového umění
+description: Kompletní přehled českého kubismu v architektuře, malířství a užitém umění. Obsahuje hlavní představitele jako Pavel Janák, Josef Gočár či Josef Chochol.
+keywords: český kubismus, Pavel Janák, Josef Gočár, Josef Chochol, rondokubismus, Dům U Černé Matky Boží, české avantgardní umění
+canonical: https://vupanska.vercel.app/shrnuti/cesky-kubismus.html
+---
+
 # Český kubismus
 
 <div class="timeline-container">

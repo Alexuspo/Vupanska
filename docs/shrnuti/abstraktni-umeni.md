@@ -1,3 +1,10 @@
+---
+title: Abstraktní umění - historie, směry a představitelé
+description: Kompletní přehled abstraktního umění od jeho vzniku až po současnost. Informace o hlavních směrech, klíčových osobnostech a uměleckých dílech.
+keywords: abstraktní umění, Vasilij Kandinskij, František Kupka, Piet Mondrian, suprematismus, neoplasticismus, orfismus, rayonismus
+canonical: https://vupanska.vercel.app/shrnuti/abstraktni-umeni.html
+---
+
 # Abstraktní umění
 
 <div class="timeline-container">
