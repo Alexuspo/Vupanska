@@ -60,7 +60,4 @@ mkdocs serve
 
 Tento projekt je licencován pod MIT licencí - pro více informací kontaktujte autory.
 =======
-Jonáš Brotánek
-
 Čerpáno z poznámek spolužáků.
->>>>>>> 11a21671b9c936c9615d1117e3c42f3909e27928
