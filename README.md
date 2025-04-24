@@ -51,13 +51,13 @@ mkdocs serve
 
 ## Tvůrci
 
-- Alexandr Pomykacz - hlavní vývojář
-- Jan Tomačka - obsahová náplň
-- Jonáš Brotánek - grafické prvky
+- Alexandr Pomykacz 
+- Jan Tomačka 
+- Jonáš Brotánek 
 
 ## Licence
 
-<<<<<<< HEAD
+
 Tento projekt je licencován pod MIT licencí - pro více informací kontaktujte autory.
 =======
 Jonáš Brotánek
