@@ -6,7 +6,7 @@ keywords: výtvarné umění, dějiny umění, studijní materiály, poznávačk
 
 # Zápisky z výtvarného umění
 
-Vítejte na stránkách věnovaných dějinám výtvarného umění. Tento web vznikl jako studijní pomůcka pro studenty se zájmem o výtvarné umění a jeho historii. Najdete zde přehledně zpracované materiály od pravěku až po moderní umělecké směry 20. století.
+Vítejte na stránkách věnovaných dějinám výtvarného umění. Tento web vznikl jako studijní pomůcka pro studenty se zájmem o výtvarné umění a jeho historii.
 
 ## Hlavní sekce
 
@@ -47,25 +47,7 @@ Vítejte na stránkách věnovaných dějinám výtvarného umění. Tento web v
 </div>
 </div>
 
-## Přehled uměleckých směrů
-
-<div class="overview-cards">
-    <div class="overview-card">
-        <h2>Vývoj umění</h2>
-        <p>Od pravěku po abstrakci</p>
-        <a href="shrnuti/vyvoj-umeni.html" class="card-link">Zobrazit přehled</a>
-    </div>
-    <div class="overview-card">
-        <h2>Novověké umění</h2>
-        <p>Renesance, baroko, rokoko</p>
-        <a href="shrnuti/novoveke-umeni.html" class="card-link">Zobrazit přehled</a>
-    </div>
-    <div class="overview-card">
-        <h2>Moderní umění</h2>
-        <p>Romantismus, realismus, impresionismus</p>
-        <a href="shrnuti/moderni-umeni.html" class="card-link">Zobrazit přehled</a>
-    </div>
-</div>
+## Umělecké směry
 
 <div class="overview-cards">
     <div class="overview-card">
@@ -93,20 +75,6 @@ Vítejte na stránkách věnovaných dějinám výtvarného umění. Tento web v
     </div>
 </div>
 
-## Oblíbená témata
-
-<div class="topics">
-<div class="topic-section">
-<h3>Umělecké směry</h3>
-<ul>
-    <li><a href="dejiny/renesance">Renesance</a> - znovuzrození antických ideálů a rozkvět umění</li>
-    <li><a href="dejiny/gotika">Gotika</a> - doba velkých katedrál a vertikality</li>
-    <li><a href="dejiny/romanske-umeni">Románské umění</a> - robustní styl raného středověku</li>
-    <li><a href="dejiny/byzanc">Byzantské umění</a> - duchovní umění východořímské říše</li>
-</ul>
-</div>
-</div>
-
 ## O projektu
 
-Tento web vznikl jako studijní projekt a je průběžně doplňován. Materiály jsou určeny primárně pro studenty výtvarného umění a dějin umění, ale mohou být užitečné pro každého se zájmem o kulturní dědictví lidstva. Veškerý obsah je pravidelně aktualizován a doplňován o nové poznatky a materiály.
+Tento web je průběžně doplňován. Materiály jsou určeny primárně pro studenty výtvarného umění a dějin umění, ale mohou být užitečné pro každého se zájmem o kulturní dědictví lidstva.
