@@ -226,7 +226,7 @@ V současnosti myšlenky Bauhausu pokračují v modernistické architektuře, pr
     <div class="resource-card">
         <h3>Anki kartičky</h3>
         <p>Pro efektivní učení a opakování klíčových pojmů Bauhausu můžete využít připravené Anki kartičky.</p>
-        <a href="../karticky/bauhaus.apkg" class="resource-link">
+        <a href="../karticky/Bauhaus.apkg" class="resource-link">
             <span class="icon">📝</span>
             Stáhnout Anki kartičky k Bauhausu
         </a>
