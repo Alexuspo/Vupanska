@@ -2,22 +2,22 @@
 
 <div class="overview-cards">
     <div class="overview-card">
-        <h2>Přehled vývoje umění</h2>
+        <h2>Vývoj umění</h2>
         <p>Od pravěku po abstrakci</p>
         <a href="vyvoj-umeni.html" class="card-link">Zobrazit přehled</a>
     </div>
     <div class="overview-card">
-        <h2>Novověké umění</h2>
+        <h2>Novověk</h2>
         <p>Renesance, baroko, rokoko, klasicismus</p>
         <a href="novoveke-umeni.html" class="card-link">Zobrazit přehled</a>
     </div>
     <div class="overview-card">
-        <h2>Moderní umění</h2>
+        <h2>Moderna</h2>
         <p>Romantismus, realismus, impresionismus a další</p>
         <a href="moderni-umeni.html" class="card-link">Zobrazit přehled</a>
     </div>
     <div class="overview-card">
-        <h2>Abstraktní umění</h2>
+        <h2>Abstrakce</h2>
         <p>Historie, směry a významní představitelé</p>
         <a href="abstraktni-umeni.html" class="card-link">Zobrazit přehled</a>
     </div>
@@ -32,9 +32,14 @@
         <a href="cesky-kubismus.html" class="card-link">Zobrazit přehled</a>
     </div>
     <div class="overview-card">
-        <h2>Futurismus a konstruktivismus</h2>
+        <h2>Futurismus</h2>
         <p>Avantgardní směry zachycující dynamiku a konstrukci</p>
         <a href="futurismus-konstruktivismus.html" class="card-link">Zobrazit přehled</a>
+    </div>
+    <div class="overview-card">
+        <h2>Bauhaus</h2>
+        <p>Inovativní umělecká škola a designové hnutí</p>
+        <a href="bauhaus.html" class="card-link">Zobrazit přehled</a>
     </div>
 </div>
 
