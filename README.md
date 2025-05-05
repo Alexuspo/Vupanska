@@ -1,6 +1,6 @@
 # Zápisky z výtvarného umění
 
-![Verze](https://img.shields.io/badge/verze-1.0.0-blue.svg)
+![Verze](https://img.shields.io/badge/verze-2.5.0-blue.svg)
 ![Licence](https://img.shields.io/badge/licence-MIT-green.svg)
 
 Kompletní webová stránka obsahující studijní materiály, poznámky a přehledy z dějin výtvarného umění. Web je dostupný na adrese [vupanska.vercel.app](https://vupanska.vercel.app) nebo [vupanska.alexus.studio](https://vupanska.vercel.app).
