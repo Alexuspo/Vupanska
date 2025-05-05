@@ -26,7 +26,7 @@ Anki je program pro efektivní učení pomocí metody spaced repetition (opakov�
 | Abstraktní umění | Směry, autoři a díla abstraktního umění | | [Stáhnout balíček](abstraktni_umeni.apkg) |
 | Barokní umění | Charakteristika baroka, významní umělci a díla | 45 | [Stáhnout balíček](barokni_umeni.apkg) |
 | Základní pojmy | Základní terminologie a techniky výtvarného umění | 30 | [Stáhnout balíček](zakladni_pojmy.apkg) |
-| Bauhaus | Inovativní umělecká škola, její principy a klíčové osobnosti | | [Stáhnout balíček](bauhaus.apkg) |
+| Bauhaus | Inovativní umělecká škola, její principy a klíčové osobnosti | | [Stáhnout balíček](Bauhaus.apkg) |
 
 ## Tipy pro efektivní studium s Anki
 

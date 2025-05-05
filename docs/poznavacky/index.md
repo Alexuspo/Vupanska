@@ -38,4 +38,4 @@ Poznávačky jsou uspořádány jako přehledná galerie s následujícími info
 - **Popis** - stručná charakteristika díla s důrazem na typické znaky
 - **Kontext** - zařazení díla do širšího uměleckého a historického kontextu
 
-Pro efektivní studium doporučujeme kombinovat poznávačky s Anki kartičkami dostupnými v sekci [Kartičky](../karticky/index.html).
+Pro efektivní studium doporučujeme kombinovat poznávačky s Anki kartičkami dostupnými v sekci [Kartičky](../karticky/index.md).
